@@ -1,12 +1,17 @@
 ---
 import "../styles/main.scss"
 import Layout from "../layouts/Layout.astro";
+
+const display = false;
 ---
 <Layout title="Schedule">
-    <meta slot="head" name="description" property="og:description" content="Here is the scheduled itinerary for QSC 2024, complete with times and locatios." />
+    <!--<meta slot="head" name="description" property="og:description" content="Here is the scheduled itinerary for QSC 2024, complete with times and locatios." />-->
+    <meta slot="head" name="description" property="og:description" content="QSC 2024 has concluded, QSC 2025 schedule will be posted in the weeks leading up to the conference." />
     <meta slot="head" property="og:url" content="https://www.qsconference.ca/schedule">
     <link slot="head" rel="canonical" href="https://qsconference.com/schedule">
-
+    {
+        display && <meta slot="head" name="robots" content="noindex">
+    }
     <main slot="content">
         <section>
             <h1>Schedule & Info</h1>

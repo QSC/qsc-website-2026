@@ -2,13 +2,16 @@
 import "../styles/main.scss";
 import Layout from "../layouts/Layout.astro";
 
-const forSale = true
+const forSale = false
 ---
 <Layout title="Tickets">
     <meta slot="head" name="description" property="og:description" content="Tickets are now sold out for QSC 2024. Check back in the fall for QSC 2025 tickets!" />
     <meta slot="head" property="og:url" content="https://www.qsconference.ca/tickets">
     <link slot="head" rel="canonical" href="https://qsconference.com/tickets">
 
+    {
+        forSale && <meta slot="head" name="robots" content="noindex">
+    }
     <main slot="content" class="main">
         <div>
             <h1>Tickets</h1>
