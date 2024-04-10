@@ -2,14 +2,14 @@
 import "../styles/main.scss"
 import Layout from "../layouts/Layout.astro";
 
-const index = false
+const hiring = false
 ---
 
 <Layout title="Apply">
     <meta slot="head" name="description" property="og:description" content="Apply to be a part of the executive team for QSC 2025! Director applications close March 18th, and Coordinator positions will be posted soon. The Queen's Space Conference (QSC) is an annual space conference held in Kingston, Ontario. The conference is centered around a series of exciting talks from professionals in the space spector, innovative workshops, and networking opportunities. Come to QSC 2024 on Febuary 3rd and Febuary 4th to learn about all things space." />
     <meta slot="head" property="og:url" content="https://www.qsconference.ca/apply">
     {
-        index && <meta slot="head" name="robots" content="noindex">
+        hiring && <meta slot="head" name="robots" content="noindex">
     }
     <link slot="head" rel="canonical" href="https://qsconference.com/apply">
 
@@ -17,16 +17,25 @@ const index = false
         <section>
             <h1>Join Us!</h1>
             <div class="intro-ps">
-                <p>We're hiring <em>directors</em> and <em>coordinators</em>! The Queen's Space Conference is an entirely student-run event. That means that every year we hire a new team of more than 20 new volunteers to run the upcoming conference. Any student at Queen's can apply, no matter what year or program you are in. While QSC 2025 will take place at the beginning of 2025, all positions will be hired in March-May of this year. Depending on the position you may have some work in the summer, then the fall semester and beginning of the winter semester are busier as we prepare for the next conference. After QSC 2025, the team will wrap up operations and prepare to hire the team for QSC 2026. Click on the button below for more information, as well as the application process information!</p>
                 <p>
-                    The new Co-Chairs of QSC 2025 have already been hired and they are excited to hire the new <em>directors</em> for QSC 2025. Applications for director positions are live and will close on March 18th. If it is past March 18th, <em>you can still apply</em>. Late applications are accepted, and will be reviewed if the position is not filled. We are looking for directors for all of our teams: <em>Logistics, Finance, Marketing, Sponsorship, Delegates, and Speakers.</em> Applications for coordinator positions are also live now. Coordinators are needed for all teams as well, with the addition of an IT Coordinator too. If you have any questions, please reach out to us via email at <a href="mailto:qsc@engsoc.queensu.ca" target="_blank">qsc@engsoc.queensu.ca</a>, or on our instagram <a href="https://www.instagram.com/queensspace/" target="_blank">@queensspace</a>
+                    Applications for the QSC 2025 executive team have now <em>closed</em>. Our Co-Chairs have been hired and we are currently processing Director and Coordinator applications. First Year Representatives will be hired at the beginning of the 2024/2025 school year, so if you are an incoming student for this upcoming year and want to help QSC connect, educate, and inspire students, keep your eyes out on the website and on our social media accounts!
                 </p>
+
             </div>
-            <div>
-                <a class="apply" target="_blank" href="https://breezy.engsoc.queensu.ca/p/76b996bbc52f-queen-s-space-conference-director-positions">Click to Apply for Director</a>
-                <a class="apply" target="_blank" href="https://breezy.engsoc.queensu.ca/p/b5026584e998-queen-s-space-conference-qsc-coordinator-positions">Click to Apply for Coordinator</a>
-            </div>
-        </section>
+
+            {/*
+                <div class="intro-ps">
+                    <p>We're hiring <em>directors</em> and <em>coordinators</em>! The Queen's Space Conference is an entirely student-run event. That means that every year we hire a new team of more than 20 new volunteers to run the upcoming conference. Any student at Queen's can apply, no matter what year or program you are in. While QSC 2025 will take place at the beginning of 2025, all positions will be hired in March-May of this year. Depending on the position you may have some work in the summer, then the fall semester and beginning of the winter semester are busier as we prepare for the next conference. After QSC 2025, the team will wrap up operations and prepare to hire the team for QSC 2026. Click on the button below for more information, as well as the application process information!</p>
+                    <p>
+                        The new Co-Chairs of QSC 2025 have already been hired and they are excited to hire the new <em>directors</em> for QSC 2025. Applications for director positions are live and will close on March 18th. If it is past March 18th, <em>you can still apply</em>. Late applications are accepted, and will be reviewed if the position is not filled. We are looking for directors for all of our teams: <em>Logistics, Finance, Marketing, Sponsorship, Delegates, and Speakers.</em> Applications for coordinator positions are also live now. Coordinators are needed for all teams as well, with the addition of an IT Coordinator too. If you have any questions, please reach out to us via email at <a href="mailto:qsc@engsoc.queensu.ca" target="_blank">qsc@engsoc.queensu.ca</a>, or on our instagram <a href="https://www.instagram.com/queensspace/" target="_blank">@queensspace</a>
+                    </p>
+                </div>
+                <div>
+                    <a class="apply" target="_blank" href="https://breezy.engsoc.queensu.ca/p/76b996bbc52f-queen-s-space-conference-director-positions">Click to Apply for Director</a>
+                    <a class="apply" target="_blank" href="https://breezy.engsoc.queensu.ca/p/b5026584e998-queen-s-space-conference-qsc-coordinator-positions">Click to Apply for Coordinator</a>
+                </div>
+                */}
+            </section>
     </main>
 </Layout>
 <style lang="scss">
