@@ -6,7 +6,7 @@ const { img, name, position, linkedin } = Astro.props;
 ---
 
 <div class="exec">
-    <Image src={img} alt=`headshot of ${name}`width="600px" height="600px"/>
+    <Image src={img} alt={`headshot of ${name}`} width={600} height={600}/>
     <div class="desc">
         <p>{name}</p>
         <p>{position}</p>
@@ -26,6 +26,7 @@ const { img, name, position, linkedin } = Astro.props;
       border-radius: 20px;
       width:250px;
       height:250px;
+      object-fit: cover;
     }
 
     .desc {

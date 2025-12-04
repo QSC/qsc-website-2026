@@ -1,6 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import speakers from "../res/speaker_data_2024_v3.json"
+import speakers from "../res/speaker_data.json"
 import SpeakerGroup from "../components/SpeakerGroup.astro";
 import infoIcon from "../icons/information_icon.png";
 import { Image } from 'astro:assets';
@@ -19,11 +19,11 @@ const images = await Astro.glob(
     return map
 });
 
-const currentYear = 2025
+const currentYear = 2026
 ---
 
 <Layout title="Speakers">
-    <meta slot="head" name="description" property="og:description" content="The Queen's Space Conference has had over 75 unique professionals in the space industry speak over our 10 years of running. The conference is centered around a series of exciting talks from professionals in the space spector, innovative workshops, and networking opportunities. Come to QSC 2024 on Febuary 3rd and Febuary 4th to learn about all things space." />
+    <meta slot="head" name="description" property="og:description" content="The Queen's Space Conference has had over 75 unique professionals in the space industry speak over our 10 years of running. The conference is centered around a series of exciting talks from professionals in the space spector, innovative workshops, and networking opportunities. Come to QSC 2026 on January 17th to learn about all things space." />
     <meta slot="head" property="og:url" content="https://www.qsconference.ca/speakers">
 
     <main slot="content" class="main">
@@ -40,7 +40,7 @@ const currentYear = 2025
             <!-- buttons to jump to years -->
             <div>
                 {
-                    Array.from(Array(11).keys()).map(i => {
+                    Array.from(Array(currentYear-2013).keys()).map(i => {
                         const year = i+2013
                         return (<a href={`#${year}`} class="yearButton">{year}</a>)
                     })
