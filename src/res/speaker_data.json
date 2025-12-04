@@ -956,7 +956,7 @@
     },
     {
       "name": "Grant Hurley",
-      "position": "Undergraduate",
+      "position": "Physics and Education Undergraduate",
       "company": "Queen's University",
       "bio": "Grant Hurley is in his fifth year of Concurrent Education at Queen's University, pursuing a dual degree in a Bachelor of Education and a Bachelor of Science with a specialization in astrophysics. Throughout his undergraduate studies, he has been actively involved in the Queen's community, serving as Co-chair of QSC and as an executive member of Queen's Astronomy Club and multiple Queen's Orientation Leadership Teams. Grant has demonstrated strong leadership skills not only through his involvement in clubs and conferences but also within the Kingston community, where he has worked as a student teacher and contributed to after-school programs, including Big Brothers Big Sisters. While doing so, Grant has participated in cutting-edge research on extragalactic kinematics through the use of pilot surveys from large radio telescopes to collect data and create some of the first ever kinematic models of galaxies. Grant loves to share his passion for space and astrophysics with others and is aiming to continue sharing his knowledge through post-graduate studies.",
       "link": "",
@@ -966,7 +966,7 @@
     },
     {
       "name": "Maisha Maliha",
-      "position": "Undergraduate",
+      "position": "Health Sciences Undergraduate",
       "company": "Queen's University",
       "bio": "Maisha Maliha, a fourth-year Health Sciences student at Queen’s University, is passionate about health, education, and technology. Self-taught in Java and Python, she founded a computer science tutoring business to bridge STEM education gaps in her community. As a Camp Facilitator, she developed STEM programs and mentored 200+ children, making science engaging and accessible. She gained healthcare experience working at an oncology clinic, while her leadership at Queen’s spans multiple roles. As a Residence Don, she fosters inclusivity, and at the Campus Observation Room (Detox Center), she supports student health. Through Revved Up, she helps individuals with mobility challenges adapt exercise routines. Maisha also contributed to sustainability efforts with Queen’s ReElectric Assembly Team, converting a 1996 Jeep into an electric vehicle, and as a Peer Health Educator, she promotes campus well-being. She is committed to accessible learning, inclusive communities, and interdisciplinary innovation.",
       "link": "",
@@ -976,7 +976,7 @@
     },
     {
       "name": "Gurleen K. Multani",
-      "position": "Undergraduate",
+      "position": "Health Sciences Undergraduate",
       "company": "Queen's University",
       "bio": "Gurleen K. Multani is a third-year health sciences student at Queen’s University with professional experience in Mechanical and Materials Engineering. Within her three years at Queen’s University, she has published two research articles, attended and presented at various academic conferences, and collaborated with her team and the Student Spaceflight Experience Program (SSEP) to create an experiment involving lectins as a solution to antibiotic resistance in microgravity. Multani’s interest in research and academia has manifested in her research protocol published within the URNCST Journal on deep brain stimulation (DBS) for treatment resistant depression; validation studies for the timed-up-and-go (TUG) test using markerless motion capture in arthritis diagnostic and prognostic testing; and subtask segmentation for the TUG test. Multani aims to pursue neuropsychology within her post-graduate studies. Beyond her studies within Queen’s, Multani has also written and published novels within the fantasy and political genre, amassing a following for her worldbuilding and storytelling.",
       "link": "",
@@ -985,5 +985,66 @@
       "headshot-path": "gurleen_k_multani.jpeg"
     }
   ],
-  "2026": []
+  "2026": [
+    {
+      "name": "Abagail Harrison",
+      "position": "Astronaut",
+      "company": "",
+      "bio": "",
+      "link": "",
+      "abstract": "",
+      "topic": "Next generation of human habitation, research, and exploration in lowEarth orbit.",
+      "headshot-path": "abigail-harrison.jpeg"
+    },
+    {
+      "name": "Robert Thirsk",
+      "position": "Astronaut",
+      "company": "Canadian Space Agency (CSA)",
+      "bio": "Dr. Robert Thirsk has academic backgrounds in mechanical engineering, medicine and business administration. He has flown on two space missions as a member of the Canadian Space Agency’s astronaut corps. Bob first flew aboard the space shuttle Columbia in 1996 as part of the Life and Microgravity Spacelab mission. His second flight in 2009 was a six-month expedition aboard the International Space Station. Bob and his Station crewmates performed multidisciplinary research, robotic operations and maintenance of spacecraft systems and payloads. Bob continues to be a strong promoter of an economy based upon exploration, innovation and lifelong learning.",
+      "link": "",
+      "abstract": "",
+      "topic": "3000 Orbits – Life Aboard the International Space Station",
+      "headshot-path": "robert_thirsk.jpg"
+    },
+    {
+      "name": "Julie HlavacekLarrondo",
+      "position": "Astrophysicist",
+      "company": "University of Montreal",
+      "bio": "Julie Hlavacek-Larrondo is a professor of physics at the Université de Montréal and Canada Research Chair, where she leads a research team exploring the most extreme objects in the universe: black holes and the giant clusters of galaxies they inhabit. After earning her PhD at the University of Cambridge and holding a prestigious NASA Einstein Fellowship at Stanford, she returned to Canada to pioneer multi-wavelength studies that reveal how black holes shape the cosmos. Recognized with top distinctions such as the Herzberg Medal and the Harvey Richer Medal, she is also deeply committed to training the next generation of scientists and advancing equity in STEM. She co-founded Parité sciences, a province-wide initiative that equips teachers with inclusive tools to inspire youth in science classrooms. Beyond academia, she is a regular voice in the media, making the mysteries of the universe accessible to all.",
+      "link": "",
+      "abstract": "",
+      "topic": "",
+      "headshot-path": "julie_hlavacek-larrondo.jpg"
+    },
+    {
+      "name": "Max King",
+      "position": "Engineer",
+      "company": "Canadian Space Agency (CSA)",
+      "bio": "",
+      "link": "",
+      "abstract": "",
+      "topic": "",
+      "headshot-path": "willian-max-king.jpg"
+    },
+    {
+      "name": "Karl Stapelfeldt",
+      "position": "Chief Scientist, Senior Research Scientist",
+      "company": "NASA",
+      "bio": "",
+      "link": "",
+      "abstract": "",
+      "topic": "",
+      "headshot-path": "dr-karl-stapelfeldt.jpg"
+    },
+    {
+      "name": "Nathalie Ouellette",
+      "position": "Science communicator",
+      "company": "",
+      "bio": "Nathalie Nguyen-Quoc Ouellette is an astrophysicist, science communicator and lifetime lover of all things space! She obtained her Ph.D. in Physics & Astronomy at Queen's University in Kingston, Ontario in 2016. Her research focuses on galaxy formation and evolution, particularly those found in clusters. Nathalie is currently the Deputy Director of the Trottier Institute for Research on Exoplanets (iREx) and the Mont-Mégantic Observatory (OMM) at the University of Montréal and is also the Outreach Scientist for the James Webb Space Telescope in Canada collaborating with the Canadian Space Agency. She is a frequent contributor and analyst in Canadian media on everything related to space. She also organises and participates in science outreach events from local to international scales to encourage the interest and participation of youth and the general public in space science and to increase scientific literacy in Canada.",
+      "link": "",
+      "abstract": "",
+      "topic": "James Webb Space Telescope",
+      "headshot-path": "nathalie_ouellette.jpeg"
+    }
+  ]
 }
