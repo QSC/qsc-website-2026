@@ -16,6 +16,10 @@ import networkingIcon from "../icons/networking.svg"
 import shuttleIcon from "../icons/space-shuttle.svg"
 import astronautIcon from "../images/astronaut_icon.png"
 
+import sponsorDDIC from "../images/sponsors/2026/dunin-deshpande_innovation_centre.png";
+import sponsorSFL from "../images/sponsors/2026/SFL_missions.png";
+import sponsorSpringLaw from "../images/sponsors/2026/spring_LAW.png";
+
 import { getImage } from "astro:assets"
 import Question from "../components/Question.astro";
 ---
@@ -89,7 +93,7 @@ import Question from "../components/Question.astro";
 								<h3>Speakers</h3>
 							</div>
 							<div>
-								<p>We bring <span class="em">industry professionals</span> to our conference in order to provide delegates the most informative, inspiring, and memorable conference possible. Several speakers will talk about their role in the space industry, their contributions, and where we are headed. Past speakers include CEOs, engineers, astrophysicists, astronauts, AI specialists, and more. Check out information on our past speakers, and keep posted for information about this year's speakers!</p>
+								<p>We bring <span class="em">industry professionals</span> to our conference in order to provide delegates the most informative, inspiring, and memorable conference possible. Several speakers will talk about their role in the space industry, their contributions, and where we are headed. Past speakers include CEOs, engineers, astrophysicists, astronauts, AI specialists, and more. Check out information on our past speakers, and see this year's speakers <a href="/speakers">here</a>!</p>
 							</div>
 						</div>
 
@@ -121,6 +125,36 @@ import Question from "../components/Question.astro";
 					</div>
 				</div>
 			</section>
+
+			<section class="sponsors">
+				<div class="pl-3 pr-3 pt-2 pb-2">
+					<h2>Our Sponsors</h2>
+					<div class="p-5 sponsors-content">
+						<div class="sponsors-grid">
+							<div class="sponsor-logo">
+								<Image src={sponsorDDIC} alt="Dunin-Deshpande Innovation Centre" />
+							</div>
+							<div class="sponsor-logo sponsor-logo-large">
+								<Image src={sponsorSFL} alt="SFL Missions" />
+							</div>
+							<div class="sponsor-logo">
+								<Image src={sponsorSpringLaw} alt="Spring Law" />
+							</div>
+						</div>
+						<p class="sponsors-thank-you">Thank you to all our sponsors for making QSC 2026 possible!</p>
+					</div>
+				</div>
+			</section>
+
+			<section class="sponsorship-cta">
+				<div class="pl-3 pr-3 pt-3 pb-3">
+					<div class="p-5 sponsorship-link">
+						<h3>Interested in becoming a sponsor?</h3>
+						<p>Help make QSC 2026 possible by partnering with us. <a href="/Sponsorship Package.pdf" target="_blank">View our sponsorship package</a> or contact us at <a href="mailto:qsc.sponsorships@engsoc.queensu.ca">qsc.sponsorships@engsoc.queensu.ca</a>.</p>
+					</div>
+				</div>
+			</section>
+			
 			<section class="faq">
 				<div class="watermark" aria-hidden="true">?</div>
 				<div class="pl-3 pt-2">
@@ -164,6 +198,7 @@ import Question from "../components/Question.astro";
 	@import "../styles/variables";
 
 	$about-bg: rgba($dark-purple, 90%);
+	$sponsors-bg: rgba($light-purple, 85%);
 	$faq-bg: rgba($light-purple, 80%);
 
 	main:has(.hero) {
@@ -382,6 +417,122 @@ import Question from "../components/Question.astro";
 				@media screen and (max-width: $screen-mobile-large) {
 					display:flex;
 					justify-content: center;
+				}
+			}
+		}
+	}
+
+	.sponsors {
+		position: relative;
+		margin: 0;
+		background-color: $sponsors-bg;
+
+		a {
+			color: lighten($orange, 9);
+			font-weight: $medium-weight;
+		}
+		a:hover {
+			color: $white;
+		}
+
+		.sponsors-content {
+			display: flex;
+			flex-direction: column;
+			gap: 2rem;
+			align-items: center;
+
+			.sponsors-grid {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				align-items: center;
+				gap: 3rem;
+				width: 100%;
+				min-height: 100px;
+
+				.sponsor-logo {
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					max-width: 200px;
+					height: auto;
+					background-color: white;
+					padding: 1.5rem;
+					border-radius: 10px;
+					box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+
+					img {
+						width: 100%;
+						height: auto;
+						object-fit: contain;
+					}
+
+					&.sponsor-logo-large {
+						max-width: 300px;
+					}
+				}
+			}
+
+			.sponsors-thank-you {
+				text-align: center;
+				color: $dark-purple;
+				font-size: 1.2em;
+				margin-top: 1rem;
+				font-weight: $heavy-weight;
+			}
+		}
+	}
+
+	.sponsorship-cta {
+		position: relative;
+		margin: 0;
+		background-color: $about-bg;
+
+		a {
+			color: lighten($orange, 9);
+			font-weight: $heavy-weight;
+			font-size: 1.1em;
+			text-decoration: underline;
+		}
+		a:hover {
+			color: $white;
+		}
+
+		.sponsorship-link {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			padding: 2.5rem;
+			max-width: 80%;
+			margin: 0 auto;
+
+			h3 {
+				margin: 0 0 1rem 0;
+				color: $white;
+				font-size: 1.7em;
+				font-weight: $medium-weight;
+				line-height: 1.3;
+			}
+
+			p {
+				margin: 0;
+				color: $white;
+				line-height: 1.8;
+				font-size: 1em;
+			}
+
+			@media screen and (max-width: $screen-mobile-large) {
+				max-width: 95%;
+				padding: 2rem 1.5rem;
+
+				h3 {
+					font-size: 1.6em;
+				}
+
+				p {
+					font-size: 1.1em;
 				}
 			}
 		}
