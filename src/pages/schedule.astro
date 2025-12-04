@@ -11,11 +11,14 @@ import Layout from "../layouts/Layout.astro";
         <section>
             <h1>Schedule & Info</h1>
             <p>Welcome to QSC 2026!</p>
-            <p>The conference is taking place on January 17th, 2026, at the Rose Event Commons in Mitchell Hall. It is from 10am to 6:30pm.The address is <strong>69 Union St, Kingston, ON K7L 2N9</strong>, you can <a target="_blank" href="https://maps.app.goo.gl/eqZWx43nD8bzzf4G7">click here</a> to view it in google maps.</p>
-            <!-- <div>
-                <img src="../2024-sat-schedule.png"/>
-                <img src="../2024-sun-schedule.png"/>
-            </div> -->
+            <p>The conference is taking place on January 17th, 2026, at the Rose Event Commons in Mitchell Hall. It is from 10am to 6:30pm. The address is <strong>69 Union St, Kingston, ON K7L 2N9</strong>, you can <a target="_blank" href="https://maps.app.goo.gl/eqZWx43nD8bzzf4G7">click here</a> to view it in google maps.</p>
+            <p>The schedule is as follows:</p>
+            <div>
+                <img src="../schedule_QSC2026.png"/>
+            </div>
+            <div class="download-button-container">
+                <a href="/schedule_QSC2026.png" download class="download-button">Download Schedule</a>
+            </div>
         </section>
     </main>
 </Layout>
@@ -79,5 +82,38 @@ import Layout from "../layouts/Layout.astro";
     .discord:hover {
       color:$orange;
       background-color: darken(cornflowerblue, 2);
+    }
+
+    .download-button-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 2em;
+    }
+
+    .download-button {
+      background-color: $light-purple;
+      border-radius: 10px;
+      padding: 1em 2em;
+      color: $white;
+      text-decoration: none;
+      font-size: 1.3em;
+      font-weight: $medium-weight;
+      display: inline-block;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+      &:hover {
+        background-color: darken($light-purple, 5%);
+        transform: translateY(-2px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        color: $white;
+      }
+    }
+
+
+
+    .download-button:active {
+      transform: translateY(0);
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     }
 </style>
