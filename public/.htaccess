@@ -1,11 +1,12 @@
 DirectoryIndex /home/index.html
 
 # Common Redirects to tickets page
-Redirect 302 /ticket https://www.engsoc.queensu.ca/product/qsc-delegate/
-Redirect 302 /shop https://www.engsoc.queensu.ca/product/qsc-delegate/
-Redirect 302 /buy https://www.engsoc.queensu.ca/product/qsc-delegate/
-Redirect 302 /attend https://www.engsoc.queensu.ca/product/qsc-delegate/
-Redirect 302 /purchase https://www.engsoc.queensu.ca/product/qsc-delegate/
+Redirect 301 /ticket /tickets
+Redirect 301 /shop /tickets
+Redirect 301 /buy /tickets
+Redirect 301 /attend /tickets
+Redirect 301 /purchase /tickets
+Redirect 302 /tickets https://www.engsoc.queensu.ca/product/qsc-delegate/
 
 # Redirecting to sponsor package (change when sponsor page built)
 Redirect 301 /sponsor https://qsconference.ca/Sponsorship%20Package.pdf
