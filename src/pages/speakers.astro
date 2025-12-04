@@ -19,7 +19,7 @@ const images = await Astro.glob(
     return map
 });
 
-const currentYear = 2024
+const currentYear = 2025
 ---
 
 <Layout title="Speakers">
@@ -29,7 +29,7 @@ const currentYear = 2024
     <main slot="content" class="main">
         <section>
             <h1>Our Speakers</h1>
-            <p class="desc">Every year we bring in industry professionals to deliver inspiring presentations at our conference. The speakers for QSC 2024 have been carefully selected, and can seen below. Click on the <Image src={infoIcon} width="30px" alt="blue information icon"/> to see a short description of who the speaker is and what they do! You can also see all the past 70+ speakers QSC has had over the past 11 years of running in our <a href="#history">History of QSC Speakers</a> section below.</p>
+            <p class="desc">Every year we bring in industry professionals to deliver inspiring presentations at our conference. The speakers for QSC 2026 are carefully being selected, and will be displayed below soon. Click on the <Image src={infoIcon} width="30px" alt="blue information icon"/> to see a short description of who the speaker is and what they do! You can also see all the past 80+ speakers QSC has had over the past 14 years of running in our <a href="#history">History of QSC Speakers</a> section below.</p>
             <hr/>
             <SpeakerGroup speakerList={speakers[currentYear]} year={currentYear} images={images}/>
             <hr/>
@@ -50,7 +50,7 @@ const currentYear = 2024
             <div class="yearSections">
                 {
                     Object.keys(speakers).reverse().map(year => {
-                        if(year != currentYear)
+                        if(Number(year) != currentYear)
                         {
                             return <SpeakerGroup speakerList={speakers[year]} title={year} year={year} images={images}/>
                         }
@@ -143,6 +143,9 @@ const currentYear = 2024
       .yearButton {
         background-color: $light-purple;
         text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         padding-block: 0.5em;
         padding-inline: 1.5em;
         border-radius: 20px;

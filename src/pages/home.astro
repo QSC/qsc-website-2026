@@ -17,11 +17,10 @@ import shuttleIcon from "../icons/space-shuttle.svg"
 import astronautIcon from "../images/astronaut_icon.png"
 
 import { getImage } from "astro:assets"
-import {callEndpoint} from "astro/dist/core/endpoint";
 import Question from "../components/Question.astro";
 ---
 <Layout title="Home">
-	<meta slot="head" name="description" property="og:description" content="The Queen's Space Conference (QSC) is an annual space conference held in Kingston, Ontario. The conference is centered around a series of exciting talks from professionals in the space spector, innovative workshops, and networking opportunities. Come to QSC 2024 on Febuary 3rd and Febuary 4th to learn about all things space." />
+	<meta slot="head" name="description" property="og:description" content="The Queen's Space Conference (QSC) is an annual space conference held in Kingston, Ontario. The conference is centered around a series of exciting talks from professionals in the space spector, innovative workshops, and networking opportunities. Come to QSC 2026 on January 17th to learn about all things space." />
 	<meta slot="head" property="og:url" content="https://www.qsconference.ca/home">
 	<link slot="head" rel="canonical" href="https://qsconference.com/home">
 
@@ -37,18 +36,18 @@ import Question from "../components/Question.astro";
 							<h1>Inspiring; <br/> <span class="light-purple">Educating;</span> <br/> Connecting.</h1>
 						</div>
 						<div>
-							<p>Queen's Space Conference 2024</p>
+							<p>Queen's Space Conference 2026</p>
 						</div>
 						<div class="tickets">
-							<a href="../schedule">See Schedule</a>
+							<a href="https://www.engsoc.queensu.ca/product/qsc-delegate/" target="_blank">Buy Tickets</a>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div  class="center p-2 mt-1 bottom">
 				<div>
-					<p class="sem-h-small">QSC 2024</p>
-					<p class="sem-h-small">Feb. 3rd-4th</p>
+					<p class="sem-h-small">Since 2013</p>
+					<p class="sem-h-small">Jan. 17th</p>
 					<p class="sem-h-small">Kingston, Ontario</p>
 				</div>
 			</div>
@@ -74,11 +73,11 @@ import Question from "../components/Question.astro";
 								<img src={calendarIcon.src} alt="an icon of a calendar">
 							</div>
 							<div>
-								<h3>Feb. 3rd-4th | Residence Inn Marriott, Kingston, Ontario</h3>
+								<h3>Jan 17th | Mitchell Hall, Kingston, Ontario</h3>
 							</div>
 							<div>
-								<p>The conference will span two days, starting on February 3rd and ending the evening of the 4th. The conference will include presentations from speakers, a case competition, a networking fair, a social, and more opportunities to connect with others at the conference. It will take place at the <a target="_blank" href="https://www.google.com/maps/place/Residence+Inn+by+Marriott+Kingston+Water's+Edge/@44.2266073,-76.4834378,17z/data=!3m1!4b1!4m9!3m8!1s0x4cd2aafb92ffbc73:0x924a3d11d98b3882!5m2!4m1!1i2!8m2!3d44.2266046!4d-76.4816049!16s%2Fg%2F1tg6prcs?entry=ttu">Residence Inn Marriott in Kingston, Ontario</a>. The address is <span>7 Earl St, Kingston, ON K7L 0A4</span>.</p>
-							</div>
+								<p>The conference will take place January 17th. The conference will include keynote speeches from space industry leaders, interactive panels, valuable networking opportunities, and 3 meals throughout the day. It will take place at the <a target="_blank" href="https://maps.app.goo.gl/eqZWx43nD8bzzf4G7">Rose Event Commons in Mitchell Hall in Kingston, Ontario</a>. The address is <span>69 Union St, Kingston, ON K7L 2N9</span>.</p>
+							</div> 
 						</div>
 
 						<div>
@@ -87,10 +86,10 @@ import Question from "../components/Question.astro";
 								<img id="podium" src={speakerIcon.src} alt="an icon of speaker at a podium">
 							</div>
 							<div>
-								<h3>7 Speakers</h3>
+								<h3>Speakers</h3>
 							</div>
 							<div>
-								<p>We bring <span class="em">industry professionals</span> to our conference in order to provide delegates the most informative, inspiring, and memorable conference possible. Seven speakers will talk about their role in the space industry, their contributions, and where we are headed. Past speakers include CEOs, engineers, astrophysicists, astronauts, AI specialists, and more. More information about our past speakers will be posted on this website soon, and information on this years speakers will be announced soon as well!</p>
+								<p>We bring <span class="em">industry professionals</span> to our conference in order to provide delegates the most informative, inspiring, and memorable conference possible. Several speakers will talk about their role in the space industry, their contributions, and where we are headed. Past speakers include CEOs, engineers, astrophysicists, astronauts, AI specialists, and more. Check out information on our past speakers, and keep posted for information about this year's speakers!</p>
 							</div>
 						</div>
 
@@ -102,7 +101,7 @@ import Question from "../components/Question.astro";
 								<h3>Networking</h3>
 							</div>
 							<div>
-								<p>We provide networking opportunities with our speakers and their respective organizations, as well as with our cosponsors, other students, and all other delegates. There will be a networking showcase with booths set up representing extracurriculars, research opportunities, and space-related companies at our conference.</p>
+								<p>We provide networking opportunities with our speakers and their respective organizations, as well as with our cosponsors, other students, and all other delegates.</p>
 							</div>
 						</div>
 
@@ -115,7 +114,7 @@ import Question from "../components/Question.astro";
 							</div>
 							<div>
 								<p>
-									QSC is about sparking thought and idea-generation, connecting our delegates with those who can launch them towards their goals, and spreading education and love for space. QSC is an opportunity to learn, grow, and connect meaningfully. Explore your passions and interests at QSC 2024.
+									QSC is about sparking thought and idea-generation, connecting our delegates with those who can launch them towards their goals, and spreading education and love for space. QSC is an opportunity to learn, grow, and connect meaningfully. Explore your passions and interests at QSC 2026.
 								</p>
 							</div>
 						</div>
@@ -130,32 +129,30 @@ import Question from "../components/Question.astro";
 						<Question question="I have a question that isn't listed here. Who do I ask?">
 							Please direct any general inquiries to <a href="mailto:qsc@engsoc.queensu.ca">qsc@engsoc.queensu.ca</a>, or connect with us on our instagram <a href="https://www.instagram.com/queensspace/">@queensspace</a>.
 							<p>If you have a question about sponsoring please contact: <a href="mailto:qsc.sponsorships@engsoc.queensu.ca" target="_blank">qsc.sponsorships@engsoc.queensu.ca</a>.</p>
-							<p>We also have a QSC 2024 Discord Server. The Exec team is on there to monitor any questions you might have. During the conference, we will be using the server to make important announcements. <a href="https://discord.gg/VvDyJMUyfG" target="_blank">Click here to join.</a> </p>
 						</Question>
 						<Question question="How do I buy tickets?">
-							<!--<p>Tickets are for sale now! Click <a href="../tickets">here</a> to go to our ticket page for more information.-->
-							<!--</p>-->
-							<p>Tickets are <span class="orange">sold out</span> for QSC 2024. Check back in fall 2024 for QSC 2025 tickets!</p>
+							<p>Tickets are for sale now! Click <a href="../tickets">here</a> to go to our ticket page for more information.</p>
+							<!-- <p>Tickets are <span class="orange">sold out</span> for QSC 2026. Check back in fall 2026 for QSC 2025 tickets!</p> -->
 						</Question>
 						<Question question="Where is the conference located?">
-							<p>The conference is located at the Residence Inn by Marriott Kingston Water's Edge. This is in Kingston, Ontario. The address is <strong>7 Earl St, Kingston, ON K7L 0A4</strong>, you can <a target="_blank" href="https://www.google.com/maps/place/Residence+Inn+by+Marriott+Kingston+Water's+Edge/@44.2266073,-76.4834378,17z/data=!3m1!4b1!4m9!3m8!1s0x4cd2aafb92ffbc73:0x924a3d11d98b3882!5m2!4m1!1i2!8m2!3d44.2266046!4d-76.4816049!16s%2Fg%2F1tg6prcs?entry=ttu">click here</a> to view it in google maps.
+							<p>The conference is located at Rose Event Commons in Mitchell Hall. This is in Kingston, Ontario. The address is <strong>69 Union St, Kingston, ON K7L 2N9</strong>, you can <a target="_blank" href="https://maps.app.goo.gl/eqZWx43nD8bzzf4G7">click here</a> to view it in google maps.
+							</p> 
+						</Question>
+						<Question question="Do you have to be a Queen’s student to come to the conference?">
+							<p>No, you do not! Students from everywhere are welcome and encouraged to come to the Queen’s Space Conference.
 							</p>
 						</Question>
-						<!--<Question question="Do you have to be a Queen’s student to come to the conference?">-->
-						<!--	<p>No, you do not! Students from everywhere are welcome and encouraged to come to the Queen’s Space Conference.-->
-						<!--	</p>-->
-						<!--</Question>-->
 						<Question question="What should I wear to the conference?">
 							<p>Aim to wear clothes that are business casual! This might look look like dress pants paired with a dress shirt or a sweater.
 							</p>
 						</Question>
-						<Question question="What is a case competition?">
+						<!-- <Question question="What is a case competition?">
 							<p>Case competitions are case studies of tangible, real world scenarios. Delegates will be placed into groups that will work together on solving a proposed issue/problem. Within an allocated time frame, delegates will strive to develop a solution or plan with their team, followed by a presentation at the conference. Case competitions are a fun way to exercise your mind and problem solving abilities while working with other like-minded people, while also competing against other groups. Past case comps have covered topics such as cleaning up space debris, mining asteroids, and more.</p>
-						</Question>
+						</Question> -->
 
-						<!--<Question question="How can I sponsor QSC?">-->
-						<!--	<p>Thank you for considering sponsoring the 2024 Queen's Space Conference! Please check out our sponsorship package <a href="https://qsconference.ca/Sponsorship%20Package.pdf">HERE</a> and reach out to <a href="mailto:qsc.sponsorships@engsoc.queensu.ca">qsc.sponsorships@engsoc.queensu.ca</a> for more information.</p>-->
-						<!--</Question>-->
+						<Question question="How can I sponsor QSC?">
+							<p>Thank you for considering sponsoring the 2026 Queen's Space Conference! Please reach out to <a href="mailto:qsc.sponsorships@engsoc.queensu.ca">qsc.sponsorships@engsoc.queensu.ca</a> for more information.</p>
+						</Question>
 					</div>
 				</div>
 			</section>

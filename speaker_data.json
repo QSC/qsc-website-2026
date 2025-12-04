@@ -6,6 +6,7 @@
       "company": "SpaceX",
       "bio": "Joshua Brost manages commercial sales activities in North America for SpaceX.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "josh-brost.jpg"
     },
@@ -15,6 +16,7 @@
       "company": "MDA",
       "bio": "Paul Fulford obtained a B.Eng in Mechanical Engineering from Queen’s University in 1990. Mr. Fulford’s experience is vast as he has worked in a wide variety of positions including Systems Engineer for the International Space Station robotics, Program Manager for the Mars Sci-ence Laboratory, Program Manager for Ontario Power Generation’s Ca-landria Vault Inspection and Repair Manipulator (CVIRM)",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "paul-fulford.png"
     },
@@ -24,6 +26,7 @@
       "company": "AsiaSat",
       "bio": "Barry Turner has over 35 years of experience in satellite communications. In 2008 he was appointed the Chairman and Interim CEO of Cyrium Technologies Inc. Prior to that he was the general manger of AsiaSat.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "barry-turner.jpeg"
     },
@@ -33,6 +36,7 @@
       "company": "CSA",
       "bio": "Dr. Peterson is a geologist and mineralogist that has conducted field work in the Canadian Arctic sponsored by the Canadian Space Agency.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-ronald-peterson.jpg"
     },
@@ -42,6 +46,7 @@
       "company": "UofT and Fermilab",
       "bio": "William Trischuk is a Harvard PhD working on an experiment at Fermilab. He was a member of the CERN scientific staff in the 90’s building silicon vertex trackers and studying high energy electron-positron collisions.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-william-trischuk.jpg"
     },
@@ -51,6 +56,7 @@
       "company": "COM DEV",
       "bio": "Neil Rowland is currently a Staff Scientist at COM DEV. He has been working on the Canadian contribution to the James Webb Space Telescope (JWST) project, the Fine Guidance Sensor (FGS), since 1997.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "neil-rowland.png"
     }
@@ -62,6 +68,7 @@
       "company": "RMCC for Space Research",
       "bio": "Ron Vincent was born in Kingston, Ontario. After receiving a B.Sc. from Queen’s University, he joined the Canadian Forces as an Air Navigator. He spent the early part of his flying career in Comox, British Columbia, amassing over 2,000 hours on the CP-140 Maritime Patrol Aircraft. Following a tour in Greenwood, Nova Scotia, flying the CE-144 Challenger and CT-133 T-Bird, he obtained an M.Sc. and Ph.D. at the Royal Military College of Canada (RMCC), specializing in oceanography, remote sensing, and space mission design. Dr. Vincent is currently a civilian professor at RRMC, teaching undergraduate and graduate space science courses. He is also the Director of the RMCC Centre for Space Research.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "ron-vincent.jpg"
     },
@@ -71,6 +78,7 @@
       "company": "Commercial Spaceflight Federation",
       "bio": "Sirisha Bandla has a diverse range of experiences in aerospace engineering, policy, and STEM education. She currently serves as the Assistant Director at the Commercial Spaceflight Federation, a trade association for commercial spaceflight companies in Washington, D.C. She received her bachelor’s degree in aeronautical and astronautical engineering from Purdue University’s School of Aeronautics and Astronautics. While at Purdue University, Sirisha served as the team leader for the NASA-supported Zero Gravity Flight Program, where she flew onboard the Zero-G aircraft and managed a group of engineers who designed, fabricated, and flew a microgravity science payload. At Purdue, she also participated heavily in STEM education outreach and helped run Purdue Space Day, an event inviting children to Purdue to learn about spaceflight. Before joining the Commercial Spaceflight Federation, she worked as an aerospace engineer designing mechanical components for advanced aircraft at L-3 Communications in Texas.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "sirisha-bandhla.jpg"
     },
@@ -80,6 +88,7 @@
       "company": "Royal Military College",
       "bio": "Marc Fricker began his career as an Integral Systems Technician (now Avionics Tech) in 1990. After completing basic training, he was accepted into the University Training Plan for Non-Commissioned Members. Subsequently, he was sent to the Royal Military College of Canada in Kingston, Ontario, where he completed a BEng in computer hardware and received his commission in 2000. Having been accepted for a DRDB scholarship, he remained at RMC to complete a Master of Computer Engineering. Following graduation, Major Fricker was seconded to the Canadian Space Agency to assist with teaching astronauts how to operate the Mobile Servicing System (CanadArm 2), as part of Canada’s commitment to the International Space Station.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "marc-fricker.jpg"
     },
@@ -89,6 +98,7 @@
       "company": "Adventure Travel Company",
       "bio": "Leon Graafland has been working in the adventure travel industry for 22 years at every level. He has run his own agency, worked as a tour guide in numerous destinations, been stationed behind a desk, and is currently exploring the last frontier. His interest in space travel is not born from a technical education or background but from a lasting desire to explore new destinations and open up new modes of travel. In 2013, he set up a partnership between Space Expedition Exploration in Amsterdam and the Merit Leisure Group to bring space travel to Canada and make it affordable and accessible for all Canadians. Currently, Merit and The Adventure Travel company have set up a network of 7 offices across Canada with a total of 25 space agents to make dreams a reality for all and to become part of a small group of space pioneers.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "leon-graafland.jpg"
     },
@@ -98,6 +108,7 @@
       "company": "International Space Development Conference",
       "bio": "Azam Shaghaghi is a space enthusiast and entrepreneur with a strong interest in research and innovation. Having competed in invention contests, Azam accomplished silver and bronze medals in 2005. She attended the International Space University Space Studies Program SSP09 at NASA Ames Research Center and currently serves as the president of the Space Tourism Society-Canadian Chapter. She is also the Space Generations Advisory Council's representative at the United Nations ECOSOC.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "azam-shaghaghi.jpg"
     },
@@ -107,6 +118,7 @@
       "company": "Neptec Design Group",
       "bio": "Nick Cristello is the Rover Systems Engineer at Neptec Design Group. He holds a B.A.Sc. from the University of Waterloo in Systems Design Engineering and an M.Sc from Queen’s University in Mechanical Engineering. Mr. Cristello has more than 7 years of experience in the aerospace and defense industry, specializing in testing and verification, finite element analysis, multi-objective optimization, and vehicle design. Since 2011, he has been the lead mechanical engineer and technical point-of-contact for each of Neptec’s rover projects developed under the Lunar Exploration Light Rover (LELR) program and the Lunar Tele-Operated ISRU Platform (LTOIP). Working with the CSA and NASA, Mr. Cristello was instrumental in integrating Neptec’s Artemis Jr. rover with NASA’s Regolith and Environment Science and Oxygen and Lunar Volatile Extraction (RESOLVE) payload at Kennedy Space Centre before its deployment on the slopes of Mauna Kea in Hawaii in 2012.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "nick-cristello.jpg"
     },
@@ -116,6 +128,7 @@
       "company": "Canadian Space Commerce Association",
       "bio": "Farnaz Ghadaki is an executive marketing and management professional and serves on the board of directors at the Canadian Space Commerce Association (CSCA). She’s also the Conference Chair of ISDC 2015, Co-Chair of the Space Engagement Track at ISDC 2014, Vice President of Space Tourism Society (STS) Canada, and Treasurer at the Canadian Alumni for the International Space University (CAISU). Farnaz has held multi-disciplinary roles in various industries, including space, telecommunications, wireless, and electronic manufacturing. Her expertise includes strategic marketing, public relations, event management, business development, and product lifecycle management. She has been instrumental in organizing and promoting many events, including the largest one-day space symposium in Canada. She is a member of several committees at the International Astronautical Federation (IAF), has authored several published papers and articles, and has been a speaker at various conferences. Farnaz completed a Graduate Studies Program at Singularity University (SU), a masters-level studies program at the International Space University (ISU), and holds certificates in Project Management as well as Entrepreneurship & Small Business, and a BASc in Computer Engineering from the University of Toronto.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "farnaz-ghadaki.jpg"
     }
@@ -127,6 +140,7 @@
       "company": "TeleSat",
       "bio": "As a Satellite Engineer at Telesat, Ryan has led fleet-wide satellite operations automation and payload contingency development. He has procured Telstar 14R, Nimiq 6, and Anik G1. Recently completing his MASc in Aerospace Engineering, he researched Telesat's solution to the Polar Communications and Weather mission. Leading Telesat's in-house innovation program is his latest challenge, focusing on developing future generations of satellites, technologies, and satcom services.\r<br/>\r<br/>Ryan founded the Ottawa chapter of the Canadian Space Society (CSS) in 2010 and chaired it until 2014. His leadership included organizing the Canada On Orbit Gala marking the 50th Anniversary of the launch of Alouette, coordinating Yuri's Night Ottawa events from 2010-2014, and co-chairing the successful Canadian Space Summit in 2013.\r<br/>\r<br/>Currently, Ryan serves on executive boards for the Canadian Federation for the International Space University and the Canadian Aeronautics and Space Institute Astro 2016 Conference. He remains the Treasurer for the CSS Ottawa chapter. He actively encourages Canadian students to pursue careers in science and engineering, volunteering for the National Research Council's Marsville and Engineering Challenge programs. He also served as Crew Engineer on the Mars Desert Research Station.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "ryan-anderson.jpg"
     },
@@ -136,15 +150,17 @@
       "company": "Deltion Innovations Ltd.",
       "bio": "Dale Boucher is CEO of Deltion Innovations Ltd., formed from NORCAT's Prototype and Development department closure in 2013. Continuing NORCAT's work since 1995 in technology development for space and mining industries, Dale previously directed Research and Development at the Northern Centre for Advanced Technologies. Over 18 years, his department developed 300+ prototypes and new technologies.\r<br/>\r<br/>With a history in heavy industry automation systems, Dale played a key role in early 1990's hard rock drilling automation projects. Since 1999, he's focused on space mining technologies, presenting papers extensively across North America and Europe. Presently, Dale leads his team in developing mining systems and technologies for planetary exploration, including projects like the NASA-funded RESOLVE lunar prospecting project and the CSA-funded planetary mini corer sample drill for potential use on Mars.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dale-boucher.jpg"
     },
     {
       "name": "Nick Cristello",
-      "position": "EXMC Systems Lead",
+      "position": "EXMC Systmes Lead",
       "company": "Neptec Design Group",
       "bio": "Nick Cristello, ExoMars Cameras (EXMC) System Engineer at Neptec Design Group, holds a B.A.Sc. in Systems Design Engineering from the University of Waterloo and an M.Sc. in Mechanical Engineering from Queen's University. With over eight years in aerospace and defense, his expertise spans system design, testing, verification, finite element analysis, and multi-objective optimization.\r<br/>\r<br/>Since 2013, Nick has led Neptec in developing space-qualified stereo navigation cameras for the upcoming ESA ExoMars Rover. He oversees the overall design, development, and verification of EXMC, with a focus on extensive qualification testing at extreme low temperatures (-130°C). Nick has also contributed significantly to other Neptec projects, including Juno II, Artemis, Artemis Jr. rovers, and space-qualified electrical harnessing for DESTIN.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "nick-cristello.jpg"
     },
@@ -154,6 +170,7 @@
       "company": "Baylor University",
       "bio": "Jeff Lee, Adjunct Assistant Professor of theoretical astrophysics at Baylor University's Center for Astrophysics, Space Physics, and Engineering Research (CASPER), specializes in Quantum Black Holes and Relativistic Radiation & Thermodynamics.\r<br/>\r<br/>He reviews for the journal Physics Essays and serves on the Board of Advisors of the Astrosociology Research Institute, exploring Hazards from Near-Earth Objects, Virtual Evolution of Interpersonal Relationships across Interplanetary and Interstellar Distances, and First Contact Scenarios. Jeff lectures on Physics and Earth & Space Science at Crescent School, Toronto. His research extends to Instructional Strategies for Students with High Functioning Autism.\r<br/>\r<br/>Jeff is a certified H-2 hang glider pilot, enjoying skydiving, snorkeling, weightlifting, martial arts, archery, ham radio (VE3SPB), electronics, computers, sociology, history, philosophy, and freshwater ichthyology.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "jeff-lee.png"
     },
@@ -163,6 +180,7 @@
       "company": "Canadensys Aerospace Corporation",
       "bio": "Eric Choi, Vice President of Responsive Space at Canadensys Aerospace Corporation, bridges the space and aviation sectors. His career highlights include work on QEYSSat, meteorology payload on Phoenix Mars Lander, Canadarm2 on the International Space Station, RADARSAT-1 satellite, and the MOPITT instrument on the Terra satellite. He holds engineering and aerospace degrees from the University of Toronto and an MBA from York University.<br/><br/>An alumnus of the International Space University, Eric served on its Board of Trustees and chaired the Exoplanets project at the 2014 ISU session in Montréal. An award-winning science fiction writer, his notable works include co-editing The Dragon and the Stars with Derwin Mak and the anthology Carbide Tipped Pens with Ben Bova, featuring space-themed stories.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "eric-choi.jpg"
     },
@@ -172,6 +190,7 @@
       "company": "NASA",
       "bio": "Alex MacDonald, Program Executive for Emerging Space at NASA Headquarters, specializes in the economic history of American space exploration and contemporary private-sector space activities. He is on staff at NASA's Jet Propulsion Laboratory and has worked for Carnegie Mellon University and the Universities Space Research Association at NASA's Ames Research Center. His doctorate from the University of Oxford focused on the long-run economic history of American space exploration, where he was a Clarendon Scholar.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "alex-macdonald.jpg"
     },
@@ -181,6 +200,7 @@
       "company": "Université de Montréal",
       "bio": "René Doyon, a professor at the physics department of the Université de Montréal and Director of the Mont-Mégantic Observatory, focuses on exoplanets, young stars, and infrared astronomical instrumentation. His imaging techniques contributed to obtaining the first images of a multiple planetary system outside the Solar system in 2008. He is involved in significant projects like the Canadian-built instrument on the James Webb Space Telescope and SPIRou, optimized for detecting Earth-like planets.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "rene-doyon.png"
     },
@@ -190,6 +210,7 @@
       "company": "MDA",
       "bio": "Joanne Leung, an Aerospace Engineering graduate in 2004, began her space industry career at MacDonald, Dettwiler and Associates (MDA). With 8 years focusing on operations planning and mission support for the Canadarm, she transitioned to future technologies post the Space Shuttle Program's retirement. Joanne now leads the development of a hosted payload orbital deployment system (PODS) under DARPA’s Phoenix Program, riding on commercial spacecraft. She eagerly anticipates her chance to be a 'hosted payload' on a commercial manned spaceflight",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "joanne-leung.jpg"
     }
@@ -201,6 +222,7 @@
       "company": "Canadian Space Agency",
       "bio": "Canadian engineer, physician, University of Calgary alumnus, and former Canadian Space Agency astronaut, Dr. Robert Thirsk, was elected the 13th chancellor of the University of Calgary in May 2014. Thirsk is a passionate advocate for innovation and exploration. During his 1996 flight aboard space shuttle Columbia, he performed 43 experiments related to life and materials sciences. In 2009, Thirsk became the first Canadian astronaut to fly a long-duration expedition aboard the International Space Station, conducting multidisciplinary research, robotic operations, and station systems maintenance.\r<br/>\r<br/>On Earth, Thirsk has led international teams in cardiovascular and visual perception research. He serves on the boards of several non-profit organizations related to education, skills training, healthy living, and space exploration. He strongly promotes lifelong learning, partnering with organizations to develop science-related curriculum and experiential learning opportunities for grade school students. Thirsk graduated from the Schulich School of Engineering in 1976 with a bachelor’s degree in mechanical engineering and received the university’s distinguished alumni award in 1985 and an honorary Doctor of Laws in 2009. He received the Order of British Columbia in 2012 and was appointed an Officer of the Order of Canada in 2013. In 2013, the Calgary Board of Education opened Robert Thirsk High School in his honor. He maintains an active blog.",
       "link": "https://robertthirsk.ca/",
+      "abstract": "",
       "topic": "",
       "headshot-path": "robert-thirsk.png"
     },
@@ -210,6 +232,7 @@
       "company": "Mission Control",
       "bio": "Before founding Mission Control, Mr. Reid held various positions for a major Canadian space company as a systems designer and project manager. He served as a lead designer on three rover prototypes for the Canadian Space Agency and worked as a systems and electrical designer and operations engineer on the Space Shuttle Program. In this role, Mr. Reid was a mission controller for nine of the last 12 Space Shuttle missions at Mission Control at NASA JSC. He conducted numerous testing and verification activities at NASA KSC. Mr. Reid holds degrees in Electrical Engineering and Economics from Queen’s University and is completing a Master’s degree in Technology Innovation Management at Carleton University. He is also a graduate of the International Space University’s Space Studies program and annually supports the Robotic Planetary Exploration Analogue Mission activity, which he co-created.",
       "link": "",
+      "abstract": "",
       "topic": "Robotic technologies and Autonomy in Space",
       "headshot-path": "ewan-reid.png"
     },
@@ -219,6 +242,7 @@
       "company": "Natural Resources Canada",
       "bio": "Before joining NRCan, Minh worked at the Canadian Space Agency on diverse files, including the development of the Canadian Space Policy Framework, the Treasury Board submission on RADARSAT Constellation Mission, and the Federal S&T Space Map. Minh earned a Masters of Public Administration from Dalhousie University and an Honours B.A. from York University’s Public Policy and Administration Program.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "minh-on.png"
     },
@@ -228,6 +252,7 @@
       "company": "York University",
       "bio": "Dr. Laurence Harris is a professor of psychology in the Faculty of Health at York University. In 2004, Dr. Harris' team submitted a grant proposal to the Canadian Space Agency to investigate the effects of weightlessness on factors contributing to our sense of up. Their software, delivered to the ISS in 2009, enabled their experiment to run on the Cogni-Hood display system. Over the next year and a half, data was collected from seven astronauts spending an average of 168 days in space. Dr. Harris’ talk described his experiences in running the Bodies in the Space Environment (BISE) experiment and its findings.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-laurence-harris.png"
     },
@@ -237,6 +262,7 @@
       "company": "Open Space Orbital Inc.",
       "bio": "Tyler Reyno is the founder and CEO of Open Space Orbital Inc. His educational background includes mechanical engineering (BEng) at Dalhousie University and ongoing MASc in Aeronautical Engineering at the Royal Military College, focusing on computational modeling of composite structures. Apart from his university education, Tyler founded the space advocacy group \"Send Nova Scotia to Space\" in 2013 and organized Halifax's first Mars Mission Conference. His goal is to advance Canada's young private space industry, contributing a blend of new and familiar technologies to solidify Canada's presence in astronautical engineering and the global launch industry.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "tyler-reyno.png"
     },
@@ -246,6 +272,7 @@
       "company": "Canadian Space Society (CSS)",
       "bio": "Marc Fricker, a retiree of the Canadian Forces, started his career as an Integral Systems Technician (now Avionics Tech) in 1990. After completing basic training and a posting to Comox, BC, he pursued the University Training Plan for Non-Commissioned Members. He completed a BEng in computer hardware from the Royal Military College of Canada and received his commission in 2000. Continuing with a Masters of Computer Engineering at RMC, specializing in autonomous systems control, he then assisted in teaching astronauts to operate the Mobile Servicing System at the Canadian Space Agency. Later, he became an Assistant Professor at RMC and concluded his career with the Aurora Incremental Modernization Program. Currently, Marc works as a professor at Heritage College in Gatineau, QC.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "kate-howells.png"
     },
@@ -255,6 +282,7 @@
       "company": "Planetary Society",
       "bio": "Kate, inspired by Carl Sagan's work, cultivated an interest in space exploration. With a degree in Experimental Psychology from McGill University, she enrolled in an MA in Space Policy at George Washington University, focusing on public engagement and education. Joining The Planetary Society, Kate coordinates its expansion in Canada, connecting with universities, clubs, and science centers. Her aim is to grow membership, fostering a strong Canadian community passionate about space exploration. She also manages the Volunteer Network at The Planetary Society.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "marc-fricker.png"
     },
@@ -264,6 +292,7 @@
       "company": "CASPER",
       "bio": "Jeff Lee, an Adjunct Assistant Professor at Baylor University, specializes in theoretical astrophysics. His research includes Quantum Black Holes and Relativistic Radiation & Thermodynamics. He is a reviewer for Physics Essays, sits on the Board of Advisors of the Astrosociology Research Institute, and was the Project Lead of the X-Physics Propulsion and Power Project at Icarus Interstellar. Jeff teaches Physics and Earth & Space Science at Crescent School, Toronto, while exploring instructional strategies for students with high-functioning autism. In his spare time, he enjoys a diverse range of activities.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "jeff-lee.png"
     },
@@ -273,6 +302,7 @@
       "company": "Lunar Colony Fund",
       "bio": "Mr. Mortimer serves as the president and CEO for the Lunar Colony Fund, directing efforts to support human capability beyond Earth. With a career spanning government, defense, telecommunications, and environmental agencies, he established a focused fund to address the financial challenges of space exploration. He has authored reviews for space-related publications and a book on civilization's progress linked to energy availability.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "mark-mortimer.png"
     },
@@ -282,6 +312,7 @@
       "company": "",
       "bio": "Eric Choi, an aerospace engineer and award-winning writer based in Toronto, created and co-edited science fiction anthologies like Carbide Tipped Pens and The Dragon and the Stars. His short stories have appeared in various publications, winning the Prix Aurora Award twice. He holds engineering and aerospace degrees from the University of Toronto and an MBA from York University. A top 40 finalist in the Canadian Space Agency’s astronaut recruitment campaign, he's actively engaged in aerospace and writing. Visit his website for more information!",
       "link": "https://www.aerospacewriter.ca/",
+      "abstract": "",
       "topic": "",
       "headshot-path": "eric-choi.png"
     }
@@ -293,6 +324,7 @@
       "company": "Neptec Design Group",
       "bio": "Mr. Cristello earned his Master's of Science in Mechanical Engineering from Queen's University in 2006. He has been with Neptec Design Group since 2011 and was promoted to Project Manager in 2015 for the ExoMars Camera's flight hardware. This project, part of the European Space Agency Programme, involves collaboration with multiple space agencies to explore the surface and sub-surface of Mars in 2020. Neptec Design Group, contracted by Airbus Defense and Space, is responsible for developing and delivering the ExoMars Cameras.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "nick-cristello.jpg"
     },
@@ -302,6 +334,7 @@
       "company": "Baylor University",
       "bio": "Jeff Lee serves as an Adjunct Assistant Professor of theoretical astrophysics at Baylor University's Center for Astrophysics, Space Physics and Engineering Research (CASPER). He is an integral member of the Early Universe Cosmology and Strings Group (EUCOS), focusing his research on Quantum Black Holes and Relativistic Radiation & Thermodynamics.<br/><br/>Beyond academia, Jeff actively contributes as a reviewer for Physics Essays and holds a position on the Board of Advisors at the Astrosociology Research Institute. His interests span diverse areas, encompassing Hazards from Near-Earth Objects, the Virtual Evolution of Interpersonal Relationships across Interplanetary and Interstellar Distances, and the Implications and Plausibility of First Contact Scenarios. Previously, he led the X-Physics Propulsion and Power Project (XP4) at Icarus Interstellar. His groundbreaking work on Breakthrough Propulsion Physics, particularly the Schwarzschild Kugelblitz, has garnered attention through features on Discovery News, PBS, and New Scientist.<br/><br/>Jeff also contributes to education as a tenured faculty member at Crescent School in Toronto, Ontario, where he imparts knowledge in Physics and Earth & Space Science. His academic pursuits extend to researching Instructional Strategies for Students with High Functioning Autism.<br/><br/>Outside the scholarly realm, Jeff holds a certification as an H-2 hang glider pilot and passionately engages in various hobbies during his leisure time. These include skydiving, snorkeling, weightlifting, martial arts, archery, and pursuits in ham radio (VE3SPB), electronics, computers, sociology, history, philosophy, and freshwater ichthyology.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "jeff-lee.png"
     },
@@ -311,6 +344,7 @@
       "company": "",
       "bio": "Dr. Ouellette completed her Ph.D. in Physics & Astronomy at Queen's University in 2016. Her research primarily centers on understanding galaxy formation and evolution within the dense Virgo Cluster. She leads the spectroscopic segment of the international Spectroscopy and H-band Imaging of Virgo (SHIVir) survey. In addition to her research, she actively engages in education and public outreach. Previously managing the Queen's Observatory for nearly 6 years and spearheading outreach for the Queen's Astronomy Research Group during her graduate studies, she now works as a research associate and freelance educator/contributor.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-nathalie-ouellette.webp"
     },
@@ -320,6 +354,7 @@
       "company": "University of Ottawa",
       "bio": "Dr. Laneuville, a professor in the Department of Biology at uOttawa, is involved in a collaborative study with the Canadian Space Agency called the MARROW study. This study investigates the effects of microgravity on bone marrow.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-odette-laneuville.jpg"
     },
@@ -329,6 +364,7 @@
       "company": "National Space Biomedical Research Institute in Texas",
       "bio": "Dr. Sutton serves as CEO and President at the National Space Biomedical Research Institute in Texas. Additionally, he is a professor of medicine and Director of the Center of Space Medicine. Dr. Sutton pursued education at the University of Toronto and Harvard University. He has made notable contributions to various fields, including smart medicine, computational neuroscience, and other diverse areas.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "jeffrey-sutton.jpg"
     }
@@ -340,6 +376,7 @@
       "company": "NASA / CSA / Exploration Inc.",
       "bio": "Dafydd Rhys \"Dave\" Williams OC is a Canadian physician, public speaker, and retired CSA astronaut. Williams was a mission specialist on two space shuttle missions. His first spaceflight, STS-90 in 1998, was a 16-day mission aboard Space Shuttle Columbia dedicated to neuroscience research. His second flight, STS-118 in August 2007, was flown by Space Shuttle Endeavour to the International Space Station. During that mission, he performed three spacewalks, becoming the third Canadian to perform a spacewalk and setting a Canadian record for the total number of spacewalks. These spacewalks combined for a total duration of 17 hours and 47 minutes. In 1998, Williams became the first non-American to hold a senior management position within NASA when he was the Director of the Space and Life Sciences Directorate at the Johnson Space Center.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dave-williams.jpg"
     },
@@ -349,6 +386,7 @@
       "company": "Mission Control Space Services Inc.",
       "bio": "Ewan Reid is President and CEO of Mission Control Space Services Inc., founded in 2015 to pursue opportunities in the space/robotics sector. Before founding Mission Control, he held several positions at Neptec Design Group, including Rover Power and Electrical Lead. During his tenure, he led the design of three rover prototypes for the Canadian Space Agency and supported a NASA/CSA lunar mission simulation on Mauna Kea, Hawaii. He served as a mission controller for nine of the last 12 Space Shuttle missions at NASA JSC and conducted testing and verification activities at NASA KSC. Reid holds degrees in Electrical Engineering and Economics from Queen’s University and is completing a Master’s degree in Technology Innovation Management at Carleton University.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "ewan-reid.jpg"
     },
@@ -358,6 +396,7 @@
       "company": "U of T Institute for Aerospace Studies",
       "bio": "Christopher J. Damaren is a Professor at the University of Toronto Institute for Aerospace Studies (UTIAS) and currently serves as its Director. He received a BASc in Engineering Science (Aerospace Option) from the University of Toronto in 1985. He went on to receive both MASc and PhD degrees in 1987 and 1990, respectively, both in aerospace engineering from UTIAS. Damaren's research interests lie in dynamics and control of space systems, particularly in the areas of structurally flexible robotic manipulators, flexible spacecraft, and spacecraft attitude control. He is a Fellow of the Canadian Aeronautics and Space Institute and an Associate Fellow of the American Institute of Aeronautics and Astronautics.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-chris-damaren.jpg"
     },
@@ -367,6 +406,7 @@
       "company": "Canadian Space Agency",
       "bio": "Mr. Birchnall graduated from our very own Queen's University in 1999 with a degree in Engineering Physics. Currently, he works for the Canadian Space Agency as the Robotics Training Lead and ISS Robotics Flight Controller. Mr. Birchnall is responsible for the planning and execution of real-time operations involving Canadarm2, a 17-meter long robotic arm that is routinely used to move supplies, equipment, and even astronauts in space.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "ed-birchnall.jpg"
     },
@@ -376,6 +416,7 @@
       "company": "Stony Brook University",
       "bio": "Alexandra Ahern is a graduate student at Stony Brook University in the Department of Geosciences under Dr. A. Deanne Rogers, where she studies the thermophysical responses of surface materials on Mars as part of the Mars Odyssey THEMIS team. She completed her B.S. and M.S. in Geology at Brigham Young University, where she studied tectonic and volcanic processes on Jupiter's moon Io with Dr. Jani Radebaugh. While also at BYU, she worked as a researcher, preparator, and educator at the BYU Museum of Paleontology. Alex has also worked on various projects for energy companies and in science outreach with children of all ages. In her free time, she enjoys playing the piano and a variety of traditional Irish instruments with local Irish music enthusiasts. Alex is also an avid southern Utah explorer, a diehard sports fan, and a crossword puzzle enthusiast.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "alex-ahern.jpg"
     },
@@ -385,6 +426,7 @@
       "company": "Institute of Air and Space Law, McGill University",
       "bio": "Mr. Goswami is a Doctoral student at the Institute of Air and Space Law at McGill University. He obtained his law degree from the Institute of Law at Nirma University in India in 2015 before pursuing an LL.M. in Air and Space Law at IASL. His thesis, \"Theorizing Cosmic Environmental Law,\" delves into cosmology and studies the Anthropocene epoch in relation to International Environmental and Space law. Mr. Goswami is passionate about initiating dialogues that challenge the developmental paradigm, especially in the modern space age.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "bayar-goswami.jpg"
     },
@@ -394,6 +436,7 @@
       "company": "RADARSAT Constellation Mission",
       "bio": "Alan Thompson serves as the Chief Systems Engineer on the RADARSAT Constellation Mission (RCM) at MDA. RCM comprises three Synthetic Aperture Radar (SAR) satellites developed by MDA for the Canadian Space Agency. Thompson has been involved in RCM since its inception in 2003 and remains engaged as the program nears launch. He joined MDA in 1999, contributing as a senior systems engineer for RADARSAT-2. Previously, Thompson worked on RADARSAT-1 SAR processing at Array Systems in Toronto. He holds a Ph.D. in mathematics from MIT (in the field of integral geometry) and a B.Sc. (Hon) in mathematics and computer science from Queen’s University.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-alan-thompson.jpg"
     },
@@ -403,6 +446,7 @@
       "company": "Col (Ret) Canadian Armed Forces",
       "bio": "Col (Ret) Andre Dupuis retired from the Canadian Armed Forces as the Director of Space requirements. In this role, he oversaw the requirements definition, space mission design, and acquisition for the Department of National Defence's national security space programme. Currently, Mr. Dupuis leads Space Strategies Consulting Ltd, providing counsel, mission concept development, and planning across various space programmes, with expertise in earth observation missions, space-based maritime domain awareness, space surveillance, and SATCOM.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "andre-dupuis.jpg"
     },
@@ -412,6 +456,7 @@
       "company": "Centres for Earth & Space/ Fossils & Evolution",
       "bio": "Dedicated to sharing her passion for science and space exploration, Marianne is the Managing Director of Earth & Space/Fossils & Evolution at the Royal Ontario Museum (ROM). She spearheads multidisciplinary initiatives to enhance understanding of Earth, the solar system, and the evolution of life. Marianne co-founded STEAMLabs, a non-profit community makerspace, fostering accessible education and creativity through digital fabrication and coding. With over 13 years of research and field experience, Dr. Mader has studied ancient rocks in Greenland, explored global impact craters, and collected meteorites in Antarctica. She has collaborated with the Canadian Space Agency, NASA, and various Canadian space companies, holding a PhD in Planetary Science, an MSc in Space Studies, and an MSc in Earth Sciences.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-marianne-mader.jpg"
     }
@@ -423,6 +468,7 @@
       "company": "Jet Propulsion Laboratory - California Institute of Technology",
       "bio": "Dr. Gary H. Blackwood earned his BS, MS, and PhD in Aeronautical and Astronautical Engineering from MIT. Since 1988, he has been an employee at NASA's Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California. He has worked on technology development for precision astronomical instruments and astrophysics missions, including the Hubble Wide/Field Planetary Camera-2, the StarLight formation-flying interferometer, the Space Interferometry Mission, and the Terrestrial Planet Finder. Since 2012, he has served as the Program Manager for the NASA Exoplanet Exploration Program, overseeing flight projects, ground instruments, technology development, mission studies, data archives, communications, and public engagement.",
       "link": "",
+      "abstract": "",
       "topic": "NASA's Search for Exoplanets and for Life in our Galaxy",
       "headshot-path": "dr-gary-h-blackwood.jpg"
     },
@@ -432,6 +478,7 @@
       "company": "University of Western Ontario",
       "bio": "Dr. Gordon “Oz” Osinski is a Professor and the NSERC/MDA/CSA/CEMI Industrial Research Chair in Earth and Space Exploration in the Department of Earth Sciences at the University of Western Ontario (Western), Canada. His primary research focuses on understanding impact cratering as a planetary geological process on Earth, Moon, and Mars. Additionally, his research portfolio includes economic geology, Precambrian geology, and comparative studies of periglacial and glacial processes in the Canadian Arctic and Mars. Dr. Osinski has published over 140 papers in peer-reviewed journals and special papers and has given over 90 conference presentations. Beyond his scientific achievements, he has provided vision and leadership to the Canadian and international Earth and planetary Science communities.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "gordon-osinski.jpg"
     },
@@ -441,6 +488,7 @@
       "company": "Maxar Technologies Ltd.",
       "bio": "Paul Fulford is a Product Development Manager for Space Exploration at MDA in Brampton, Ontario. He is responsible for new product and business development for human, robotic, and scientific space exploration. His primary focus lies in human-robotic exploration and mission development, including next-generation robots for lunar and Martian exploration. Paul joined MDA in 1991 and contributed to the Canadarm2 program for the International Space Station. His work in technology development for Moon and Mars exploration led to his role as Program Manager for the Alpha Particle X-Ray Spectrometer (APXS), operational on NASA’s Curiosity rover for over 6 years. Paul also managed the neuroArm2, a micro-surgery robot operating within an MRI's magnetic field, and a large-scale inspection and repair robot used by Ontario Power Generation to inspect nuclear reactors. He holds a BSc in Mechanical Engineering from Queen’s University and was a founding member and team leader for the Queen’s Solar Car Team. Paul also served as a lecturer and course coordinator for Space Systems Design at UofT from 1993-2015.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "paul-fulford.jpg"
     },
@@ -450,6 +498,7 @@
       "company": "GHGSat Inc.",
       "bio": "Stéphane Germain founded GHGSat in 2011 to fulfill the market need for consistent, high-quality measurements of greenhouse gas emissions from industrial facilities worldwide. With over 25 years of experience in aerospace engineering, project management, and business development, he held senior management positions in small and large Canadian aerospace companies for a decade. Previously, he consulted for Bain & Company, working with Fortune 500 companies in industries ranging from forestry to aerospace. At the beginning of his career, he worked as an engineer and project manager at Spar Aerospace. Stéphane graduated from Queen’s University (Canada) with a B.Sc. in Engineering Physics in 1991 and earned a Masters in Business Administration from INSEAD (France) in 1994.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "stephane-germain.jpg"
     },
@@ -459,6 +508,7 @@
       "company": "Department of Astronomy and Astrophysics - University of Toronto",
       "bio": "I'm an experimental cosmologist and long-wavelength instrumentalist, currently employed as Assistant Professor at the Dunlap Institute and Department of Astronomy & Astrophysics at the University of Toronto. I'm currently actively recruiting both undergraduate summer researchers and graduate students interested in cosmology and microwave/radio instrumentation. My primary research interests involve the Large Scale Structure (LSS) in the Universe. By studying its properties and evolution, we can make firm statements about the physical processes which must have been active. Despite -- or perhaps because of -- its size, the LSS is difficult to observe, and specialized instruments and surveys are required to study it. I work on two such instruments, the South Pole Telescope (SPT), and the Canadian Hydrogen Intensity Mapping Experiment (CHIME). More locally, I've recently become involved in a Very Long Baseline Interferometry (VLBI) project to study pulsar scintillation. Using the once-pioneering and recently re-commissioned Algonquin Radio Observatory (ARO), along with India's Giant Metrewave Radio Telescope (GMRT), we aim to use interstellar plasma lensing to resolve motion in the pulsar emission. Prior my current position, I was a postdoc in the McGill Cosmology Instrumentation Lab, working with Matt Dobbs. For most of 2008 I lived in the Antarctic as a winterover for SPT, and before that I was a graduate student at the University of Chicago. While there, I spent a lot of time on outreach projects, particularly within the MSCOPE program, working in and developing exhibits for the Museum of Science and Industry and Adler Planetarium, some of which are still in use. Beyond work pursuits, I enjoy fresh air & sunshine: cycling, hiking, climbing, kayaking, really anything that'll get me outside and into the world. I dabble in photography, make a mean chocolate truffle, and spend far too much time fiddling with computers.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "keith-vanderlinde.jpg"
     },
@@ -468,6 +518,7 @@
       "company": "Earth & Space Science & Engineering - York University",
       "bio": "Dr. Michael Daly is a Professor and holds the York University Research Chair in Planetary Science. With degrees in Engineering Physics from Queens and McMaster, his research focuses on answering planetary science questions using custom instrumentation, both in the laboratory and in-situ. Leading the science operations of Canada’s OSIRIS-REx Laser Altimeter around asteroid Bennu throughout 2019, he's also engaged in deep-UV Raman spectroscopy and building a $3.5M planetary surface simulation facility. Mike has been the Undergraduate Program Director for York’s Space Engineering Program and acting director for the Centre for Research in Earth and Space Science. Before joining York University, he engineered Canada’s initial instruments for Mars and designed cameras in the Dextre robot’s end-effectors. Recently, Dr. Daly was honored with the Canadian Aeronautics and Space Institute’s 2018 McCurdy award for his significant contributions to science and technology in aeronautics and space exploration.",
       "link": "",
+      "abstract": "",
       "topic": "The OSIRIS-REx Mission and the OSIRIS-REx Laser Altimeter",
       "headshot-path": "mike-daly.jpg"
     },
@@ -477,6 +528,7 @@
       "company": "The Planetary Society",
       "bio": "Kate Howells serves as the Global Community Outreach Manager for The Planetary Society, working to involve people worldwide in advancing space exploration. Managing the Society's global network of volunteers engaged in educational outreach and developing volunteer activities supporting The Planetary Society’s goals, Kate also leads the organization's youth education program. Representing The Planetary Society in Canada and serving on the Government of Canada’s Space Advisory Board, Kate holds a BA in Psychology from McGill University and pursues an MA in Educational Studies at Concordia University, focusing on science literacy and identity. She authored \"Space is Cool as F***\" and contributes popular science articles to The Editorial Magazine.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "kate-howells.jpg"
     },
@@ -486,6 +538,7 @@
       "company": "Department of Natural Resources Sciences - McGill University",
       "bio": "Lyle Whyte, a professor of environmental microbiology at McGill University, recently received the Canada Research Chair (Polar Microbiology) from 2018-2025 and the Canadian Society of Microbiologists (CSM) Outstanding New Researcher Award (2004). Internationally recognized in astrobiology, he participates in various space-related committees and teams, including the European Space Agency (ESA) ExoMars 2020 Landing Site Selection Working Group (LSSWG) and the Canadian Space Agency (CSA) Planetary Exploration Consultation Committee (PECC). Engaged in developing next-generation life-detection technologies for planetary exploration, Prof. Whyte is a significant figure in Canada’s astrobiology community.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "lyle-whyte.jpg"
     }
@@ -497,6 +550,7 @@
       "company": "Mission Control Space Services Inc.",
       "bio": "Ewan Reid serves as the President & CEO of Mission Control, a Canadian company specializing in Space Exploration and Robotics. With a focus on mission operations, onboard autonomy, and artificial intelligence, Ewan brings extensive experience. Before founding Mission Control, he led subsystem design for three rover prototypes at the CSA. Additionally, Ewan served as a mission controller for ten of the last 12 Space Shuttle missions at NASA JSC. He holds degrees in Electrical Engineering and Economics from Queen’s University, pursued a Master’s in Technology Innovation Management at Carleton University, and remains an alumnus and visiting lecturer at the International Space University.",
       "link": "https://missioncontrolspace.com/about/team/#ewan-reid",
+      "abstract": "",
       "topic": "Canada’s Role in Sustainable Space Exploration",
       "headshot-path": "ewan-reid.jpg"
     },
@@ -506,6 +560,7 @@
       "company": "Canadian Space Agency",
       "bio": "Originally from Hudson Quebec, Laurie Metcalfe graduated from Queen’s University in 1997 with a degree in Mechanical Engineering. Beginning her space career at MDA as a Test Engineer, Laurie focused on testing and integrating arm joints for the Special Purpose Dextrous Manipulator (SPDM). She transitioned to the MSS Operations analysis group in St. Hubert, becoming the lead analyst for flight STS-123, which launched SPDM to the ISS in 2008. Laurie continued as the lead SPDM analyst until joining the Canadian Space Agency in 2011. Her roles involved support for Mobile Servicing System (MSS) Operations, culminating in her current work on developing Canadarm3, Canada’s contribution to the Gateway for human space exploration.",
       "link": "",
+      "abstract": "",
       "topic": "Building a gateway to the universe",
       "headshot-path": "laurie-metcalfe.jpg"
     },
@@ -515,6 +570,7 @@
       "company": "Canadensys Aerospace Corporation",
       "bio": "Perry is a lifelong space enthusiast and a passionate advocate for both manned and robotic space exploration. With over 23 years in the Canadian space industry, Perry has held technical and management positions across commercial and government space projects. He obtained his Bachelor’s degree in Aerospace Engineering from Carleton University in Ottawa in 1996, followed by a Master’s in Astronautical Engineering from the Viterbi School of Engineering at the University of Southern California in 2011. Currently serving as Program Manager at Canadensys Aerospace Corporation, Perry oversees government and commercial space projects and proposals.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "perry-edmundson.jpg"
     },
@@ -524,6 +580,7 @@
       "company": "NGC Aerospace",
       "bio": "Pamela Woo works as a Guidance, Navigation, and Control (GNC) Engineer at NGC Aerospace, specializing in developing Attitude and Orbit Control System (AOCS) software for satellites. Her current focus lies in spacecraft GNC software for the ESA PROBA-3 formation flight mission.",
       "link": "",
+      "abstract": "",
       "topic": "Autonomy and Making Mobile Vehicles Intelligent",
       "headshot-path": "pamela-woo.jpg"
     },
@@ -533,6 +590,7 @@
       "company": "Canadian Space Agency",
       "bio": "Tim Haltigin holds the position of Planetary Senior Mission Scientist at the Canadian Space Agency. In this capacity, he leads Canada’s efforts to explore planetary bodies within the solar system. Tim earned his PhD from McGill University, focusing on the similarities in the evolution of ice-rich terrains on Earth and Mars. He was a candidate for Canada’s astronaut program in 2016 and had an asteroid named after him in 2017 (130066 timhaltigin). Currently, he serves as the Canadian mission manager for OSIRIS-REx, a mission slated to return a sample from asteroid Bennu to Earth in 2023.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "tim-haltigin.jpg"
     },
@@ -542,6 +600,7 @@
       "company": "Space Flight Laboratory",
       "bio": "I am a spacecraft electrical engineer working at the Space Flight Laboratory (SFL). I work on the hardware of micro/nanosatellites. My interests in space started back in undergrad when I joined Space Concordia and worked on a student-built 3U cubesat with a payload for testing self-healing composite materials in space. This project made me realize my passion for space and the engineering challenges presented by its harsh environment. My typical day at work is spent designing hardware and rigorously testing it so that it performs well in the harsh space environment. I have a BEng in Electrical Engineering from Concordia University and recently completed my MASc in Aerospace Science and Engineering at the University of Toronto Institute for Aerospace Studies (UTIAS).",
       "link": "",
+      "abstract": "",
       "topic": "Space Flight Laboratory: Microsatellites from Concept to Operations",
       "headshot-path": "rami-kendala.jpg"
     },
@@ -551,6 +610,7 @@
       "company": "MDA's Vision Systems and Sensors",
       "bio": "Bryce Dudley is a vision systems engineer in MDA's Vision Systems and Sensors group (formerly Neptec Design Group). His current work supports stereo vision systems on the ESA's Rosalind Franklin rover and utilizes LiDAR systems for autonomous rendezvous and berthing operations at the ISS. He holds a degree in Mechatronic Systems Engineering from the University of Western Ontario and is currently pursuing a Master's in Electrical & Computer Engineering. Bryce also has a degree in Political Science from the University of Calgary and now resides in Ottawa with his wife, Dominique, and their dog, Lily.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": ""
     }
@@ -562,6 +622,7 @@
       "company": "GHGSat",
       "bio": "Stephane Germain serves as the President and CEO of GHGSat, a global emissions monitoring company headquartered in Montreal, Quebec. Before joining GHGSat, Stephane completed an MBA and earned a B.A.Sc. in Engineering Physics from Queen's University. GHGSat has the capability to deploy satellite or aircraft platforms to measure and monitor gas concentrations at any given location worldwide. This improved accuracy and cost efficiency in measuring gas concentrations enable better control over greenhouse gas emissions for industrial facilities and governments.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "stephane-germain.jpg"
     },
@@ -571,6 +632,7 @@
       "company": "MDA",
       "bio": "Max King, hailing from Edmonton, Alberta, is an engineer contributing to the next generation of space exploration at MDA in Toronto. Max holds an undergraduate degree in Materials Engineering from the University of Alberta and is pursuing a Master’s in Applied Science in Aerospace Engineering at the University of Toronto (expected completion in 2020). With international experience at the German Aerospace Centre (DLR) and involvement in projects like satellites and Canadarm2 in Canada, Max has played a significant role in Canada’s engagement in the global science and space community. He aims to amplify the voice of youth and engage all Canadians in Canada’s expanding role in outer space exploration.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "willian-max-king.jpg"
     },
@@ -580,6 +642,7 @@
       "company": "McMaster University",
       "bio": "I received my B.Sc. in a co-op programme, with a joint honours in Physics and Applied Math from the University of Waterloo. I did my doctoral work in Theoretical Particle Physics at the University of Texas in Austin under the supervision of Steven Weinberg. After doing a short postdoctoral stint at the Institute for Advanced Study in Princeton, in 1987 I joined the faculty at McGill University, where I was made James McGill Professor in 2003. I am presently a professor with McMaster University’s department of Physics and Astronomy and am an Associate Faculty Member at Perimeter Institute for Theoretical Physics. I have spent sabbatical years with the Institute for Advanced Study in Princeton as well as the University of Neuchatel and CERN in Switzerland. I was a Killam Fellow from 2005 – 2007 and elected a fellow of the Royal Society of Canada in 2008. I received the Canadian Association of Physicists/Centre de Recherches Mathematiques (CAP-CRM) prize for theoretical physics in 2010, and a Buchalter Cosmology Prize in 2016 and again in 2017.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-cliff-burgess.jpg"
     },
@@ -589,6 +652,7 @@
       "company": "University of British Columbia",
       "bio": "Dr. Jess McIver, an Assistant Professor of physics and astronomy at the University of British Columbia, has devoted 13 years to gravitational wave astrophysics with the LIGO Scientific Collaboration and 3 years with the LISA Consortium. Her research centers on the intersection of detector instrumentation and astrophysical data analysis, exploring the universe through gravitational waves.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-jess-mciver.jpg"
     },
@@ -598,6 +662,7 @@
       "company": "University of British Columbia",
       "bio": "Allison employs cutting-edge telescopes to explore the origins of galaxies like our Milky Way. Her focus spans starbursts, colliding galaxies, and supermassive black holes. Allison earned her PhD in Astrophysics from the University of Copenhagen and conducted postdoctoral research at the European Southern Observatory and the Dunlap Institute for Astronomy and Astrophysics at the University of Toronto. She has contributed to astronomy training programs in Africa and is an active member of Homeward Bound, a global coalition of women in STEMM addressing current world challenges.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-allison-man.jpg"
     },
@@ -607,6 +672,7 @@
       "company": "Queen's University",
       "bio": "Professor Laura Fissel, an astrophysicist in the Department of Physics, Engineering Physics, and Astronomy at Queen's University, specializes in building stratospheric balloon-borne telescopes. These telescopes operate above 99.5% of Earth's atmosphere, enabling observations of light colors that typically demand more costly space telescopes. Her research delves into the formation of stars and planets from interstellar gas and dust. Laura received her PhD in Astronomy and Astrophysics from the University of Toronto in 2013, followed by postdoctoral positions at Northwestern University and the National Radio Astronomy Observatory. She joined Queen's University as an assistant professor in September 2019.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-laura-fissel.jpg"
     },
@@ -616,6 +682,7 @@
       "company": "Jet Propulsion Laboratory",
       "bio": "Tom has dedicated 30 years to the Jet Propulsion Laboratory, contributing to various flight projects exploring destinations within and beyond the solar system. His career began on the Voyager project, including work for its Neptune encounter and testing of current flight software for the spacecraft's journey through interstellar space. His roles expanded to support missions studying ocean-atmosphere interactions using radar scatterometry. He played pivotal roles, such as lead test engineer for electronics systems. Subsequently, Tom supported outer planet exploration, including the Cassini mission to Saturn and the STARDUST Discovery mission to the WILD-2 comet, a groundbreaking mission capturing comet dust return to Earth. His expertise also extended to Mars, overseeing the Avionics Systems for the Mars Exploration Rovers Spirit and Opportunity. Tom's contributions furthered with the GRAIL Discovery mission to the Moon, where he served as the Deputy Project Manager, successfully mapping the Moon's gravity. Currently, as the InSight Project Manager, Tom continues his passion for spacecraft development while enjoying traveling and engaging in adventure sports like snowboarding and mountain biking during his downtime.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "tom-hoffman.jpg"
     },
@@ -625,6 +692,7 @@
       "company": "MDA",
       "bio": "Dr. Jamil A. Shariff completed a PhD in Astrophysics at U of T in 2015, undertaking a three-month expedition to Antarctica with an international research team for his thesis. There, they assembled the advanced telescope Spider, launching it into space aboard a high-altitude helium balloon to delve into the moments after the Big Bang. Since early 2019, Dr. Shariff has brought this expertise in end-to-end flight systems integration for space-based payloads to the Systems Design department at MDA in Brampton, ON. As a staff member, he focuses on the requirements, design, integration, and testing of the Gateway External Robotic System (GERS), including Canadarm3—a pivotal contribution to Canada's advanced space-based robotics for the upcoming Lunar Gateway.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-jamil-a-shariff.jpg"
     }
@@ -636,6 +704,7 @@
       "company": "NASA",
       "bio": "Holly Ridings, currently the Flight Director Chief at NASA, has received numerous honors and awards, including two NASA Outstanding Leadership Medals, the NASA Exceptional Service Medal, and the Rotary National Award for Space Achievement. She began her NASA career as an ISS flight controller in the THOR and has since led various missions, including Expedition 16, STS-127, and the first SpaceX Dragon mission to the ISS. As the Expedition 16 lead, she oversaw the ISS crew during missions such as STS-120, STS-122, STS-123, and the first ATV mission. Her responsibilities as the STS-127 lead included the addition of the Japanese Exposed Facility and the External Platform to the ISS during a 16-day mission involving 5 EVAs. In her role as the NASA lead for the Dragon Demo mission to the ISS, she ensured the safety of the ISS and its crew during the arrival of the first commercial vehicle, including making final decisions for rendezvous and capture. Before becoming a Flight Director, she served as the Flight Director Office Assistant for ISS and Visiting Vehicles, followed by her selection as the Deputy Chief of the Flight Director Office in the fall of 2014.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "holly-elizabeth-ridings.jpg"
     },
@@ -645,6 +714,7 @@
       "company": "Canadian Space Agency",
       "bio": "Dr. Johnson-Green currently manages the Health and Life Sciences group at the Canadian Space Agency (CSA). He obtained his M.Sc from Queen’s University in 1988 under the supervision of Dr. Adele Crowder in the Dept. of Biology and his Ph.D. from the University of Manitoba in 1994. Prior to joining the CSA, he was a faculty member at Acadia University, conducting research on the ecology of plant-fungal interactions and the prevention of food spoilage using bio-products. Dr. Johnson-Green oversees the selection and implementation of Canadian experiments on the International Space Station (ISS). He has shepherded the completion of 37 studies on the ISS and currently serves as the Co-Chair of the International Space Life Sciences Working Group. Additionally, he represents the CSA on the Multilateral Human Research Panel for Exploration and the Human Research Multilateral Review Board (the Research Ethics Board of the ISS).",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-perry-johnson-green.jpg"
     },
@@ -654,6 +724,7 @@
       "company": "McGill University",
       "bio": "Dr. Eve J. Lee (she/her) is an Assistant Professor of Physics and a William Dawson Scholar at McGill University. Her research utilizes various theoretical tools to investigate the diversity in planetary systems, aiming to understand observed phenomena and predict future discoveries through missions. Dr. Lee earned her Hon. BSc in Astronomy and Physics at the University of Toronto, completed her PhD in Astrophysics at UC Berkeley, and served as a Sherman Fairchild Postdoctoral Scholar in Theoretical Physics/Astrophysics at Caltech until 2019, when she returned to McGill for a faculty position.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-eve-lee.jpg"
     },
@@ -663,6 +734,7 @@
       "company": "MDA",
       "bio": "Melissa Cass is a systems, operations, and safety engineering professional with an EngPhys’99 degree from Queen’s University and Masters degrees focused on Aviation Safety & Accident Investigation and Space Science from Embry-Riddle Aeronautical University. With over 20 years at MDA, Canada’s largest space company, she has worked across various domains, including systems engineering, safety engineering, quality, and management. As the Director of Safety & Mission Assurance, she leads a team of skilled safety and reliability engineers, overseeing the design and development of safety-critical space robotics systems like the Canadarm and Space Station Canadarm2. In her current role as Director of Business Operations, she leverages her cross-functional operations experience to drive company-wide projects simplifying and modernizing processes and tools.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "melissa-cass.jpg"
     },
@@ -672,6 +744,7 @@
       "company": "University of Toronto",
       "bio": "Prof. Jonathan Kelly leads the Space & Terrestrial Autonomous Robotic Systems (STARS) Laboratory at the University of Toronto Institute for Aerospace Studies. His group focuses on research at the intersection of sensing, planning, and control, emphasizing problems related to perception, representation, and understanding of the world. Before joining the University of Toronto, he was a postdoctoral fellow in the Computer Science and Artificial Intelligence Laboratory at MIT. Prof. Kelly received his PhD and MS degrees from the University of Southern California and his MSc and BSc degrees from the University of Alberta. Prior to starting graduate school, he worked as a Software Engineer in the Space Technologies division of the Canadian Space Agency. Outside academia, he enjoys scuba diving, which provides an experience closest to weightlessness.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-jonathan-kelly.jpg"
     },
@@ -681,6 +754,7 @@
       "company": "Perimeter Institute",
       "bio": "Dr. Mathew Madhavacheril is a researcher focusing on cosmology. He currently serves as the P. J. E. Peebles Postdoctoral Fellow at the Centre for the Universe, Perimeter Institute, and is set to begin as an Assistant Professor at the University of Southern California in August 2022. Previously, he was a Postdoctoral Research Associate at the Department of Astrophysical Sciences at Princeton University, concentrating on constraining Dark Energy using Gravitational Lensing in his PhD thesis at Stony Brook University. He is primarily involved with the Atacama Cosmology Telescope (ACT) collaboration, operating and analyzing data from a microwave telescope in the Atacama Desert in Chile. The ACT measures radiation from the early universe and is gearing up for a larger project, the Simons Observatory, to provide insights into the early universe, neutrinos, dark matter, and dark energy.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-mathew-madhavacheril.jpg"
     },
@@ -690,6 +764,7 @@
       "company": "McGill University",
       "bio": "Prof. Katelin Schutz explores astrophysical manifestations of physics beyond the Standard Model, combining astrophysics, particle physics, and cosmology in her research. Her group focuses on extracting information about the Universe by considering how astrophysical systems might be influenced by undiscovered particles and interactions. Their primary research revolves around understanding the composition and behavior of dark matter, alongside other extensions of the Standard Model. While primarily theoretical, they occasionally engage with available data for their research.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-katelins-schutz.jpg"
     }
@@ -701,6 +776,7 @@
       "company": "Canadian Institute for Theoretical Astrophysics",
       "bio": "Chris Thompson is a theoretical astronomer known for pioneering the study of extreme magnetism in the universe. His research focuses on observing the dynamic and evolving nature of the sky using X-rays and gamma-rays, necessitating observations from space due to Earth's atmospheric limitations. His work, often carried out through missions by NASA, ESA, JAXA, and ISRO, explores the connection between dynamic behaviors, neutron stars, and black holes with magnetic fields much stronger than Earth's. Thompson, a Canadian, earned his Ph.D. in Physics from Princeton University in 1988 and has been a Professor at the Canadian Institute for Theoretical Astrophysics since 2000. He is a Fellow of the Royal Society of Canada and received the Bruno Rossi Prize from the American Astronomical Society in 2003 for his contributions to magnetar research.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-chris-thompson.jpg"
     },
@@ -710,6 +786,7 @@
       "company": "Mission Control",
       "bio": "Dr. Samara Pillay is an AI Specialist at Mission Control, a company specializing in software for Earth, Moon, and Mars. Her expertise lies in developing AI and autonomous capabilities for space exploration and robotics. Trained in physics and mathematics, she leverages an analytical mindset and predictive modeling across diverse sectors like biotech, tech, and banking. Her research interests range from black holes to nuclear astrophysics. Holding a Ph.D. from the University of Oxford, she specializes in product innovation and business strategy for analytics-based products, aiming to contribute solutions to critical issues in space exploration and situational awareness.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-samara-pillay.jpg"
     },
@@ -719,6 +796,7 @@
       "company": "Royal Military College of Canada",
       "bio": "Dr. Wade investigates the structure, evolution, origin and impact of magnetic fields in stars. His research concentrates on intermediate and high mass stars, which are the evolutionary progenitors of most white dwarfs, neutron stars and stellar-mass black holes. His current research aims at understanding the origin of and evolution of magnetic fields in stars; the role of magnetic fields in generating spectroscopic activity and in mediating accretion in late stellar formative stages; the interaction of magnetic fields and stellar winds; the factors influencing stellar rotational angular momentum; and the ultimate impact of internal and external magnetic fields on stellar evolution. Dr. Wade is the Principal Investigator (PI) of the Magnetism in Massive Stars (MiMeS) collaboration, co-PI of the Binarity and Magnetic Interactions in Stars (BinaMIcS) project, and past-Chair of the international BRITE Executive Science Team for the Bright Target Explorer (BRITE) Constellation mission.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-gregg-wade.png"
     },
@@ -728,6 +806,7 @@
       "company": "University of Waterloo",
       "bio": "Prof Will Percival is the Director of the Waterloo Centre for Astrophysics and holds the Mike and Ophelia Lazaridis Distinguished Chair in Astrophysics at the University of Waterloo. He is also an Associate Faculty member at the Perimeter Institute for Theoretical Physics. As a cosmologist, his work primarily involves galaxy surveys to measure the cosmological expansion rate and structure growth. With over 300 papers in cosmology, he holds senior positions in the ongoing Dark Energy Spectroscopic Instrument (DESI) and the European Space Agency-led Euclid satellite mission, which aims to transform our understanding of dark energy through a comprehensive survey of the Universe.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-will-percival.jpg"
     },
@@ -737,6 +816,7 @@
       "company": "Canadian Space Agency",
       "bio": "Dr. Jean Dupuis is a senior mission scientist in space astronomy at the Canadian Space Agency (CSA), currently managing the James Webb Space Telescope project. With a background in astrophysics and a Ph.D. from the University of Montreal, he worked extensively in the United States on various space astronomy missions before returning to Canada in 2005. At CSA, his contributions span the development of the Webb Telescope and other space astronomy projects like Herschel, Planck, and AstroSat. Outside work, he enjoys nature, playing guitar, and engaging in sports like fencing and running.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-jean-depuis.png"
     },
@@ -746,6 +826,7 @@
       "company": "RMC/Queen's University",
       "bio": "Dr. Kristine Spekkens is a professor at RMC and Queen's University, leading a research group focused on understanding nearby galaxies' structure and evolution through deep multi-wavelength observations, particularly using their atomic gas reservoirs as cosmological probes. She spearheads initiatives surveying atomic gas in nearby galaxies with some of the world's largest radio telescopes and serves as the Canadian Science Director for the billion-dollar SKA telescope, currently under construction, set to revolutionize our understanding of the radio sky.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-kristine-spekkens.jpg"
     },
@@ -755,6 +836,7 @@
       "company": "Canadian Space Agency",
       "bio": "Bill Mackey began his 30+ year career in space exploration at Spar Aerospace Ltd (now MDA - Brampton), where he contributed to the Mobile Servicing System architecture for the International Space Station (ISS) robotic systems. Transitioning to the Canadian Space Agency (CSA), he held roles in NASA's Johnson Spaceflight Center, becoming the lead Mission Team Manager for CSA and later leading the CSA Liaison Office at JSC. His significant contributions included involvement in 28 Shuttle assembly flights of the ISS. Following a tenure as Counselor for Canadian-U.S. Space Affairs in Washington D.C., he returned to CSA Headquarters in Montreal. Currently a senior advisor at CSA, he evaluates options for Canadian contributions to space exploration and technology transfer opportunities. Mackey holds BSc (Human Kinetics) from the University of Guelph and an MSc (Mechanical Engineering) from the University of London, England, and provides insights on CSA initiatives supporting International (Human and Robotic) Space Exploration Past, Present, and Future.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "william-mackey.jpg"
     }
@@ -763,11 +845,22 @@
     {
       "name": "Abigail Harrison",
       "position": "Science Communicator, Future Astronaut, Non-Profit Founder",
-      "company": "Graduate Student at Queen's University",
+      "company": "Graduate Student at Queen's",
       "bio": "Abigail (Abby) Harrison is a graduate student at Queen’s University studying Arctic region geochemistry as a member of the Facility for Biogeochemical Research on Environmental Change and the Cryosphere (FaBRECC) lab. Previously she has conducted immunology research at Harvard Medical School, astrobiology research at the Space Life Sciences Labs, machine learning research at Wellesley College, and limnology research at Lake Baikal, Siberia. Abby holds a bachelor's degree in biology from Wellesley College. Abby has had a passion for space exploration her entire life and is working towards becoming a NASA astronaut. At 15 years old, Abby served as the Earth Liaison for European Space Agency astronaut Luca Parmitano, helping to share his experiences living and working on the International Space Station with those on Earth. She then went on to found The Mars Generation non-profit, of which she was President for 8 years. Under her leadership, The Mars Generation reached millions of people with digital space content, provided hundreds of thousands of dollars in support for young people to have hands-on experiences in space and science, and engaged more than 2,000 students from around the world in a leadership development program. In 2019, Abby was named to the Forbes 30 Under 30 list for her innovative work with The Mars Generation. Abby is the author of Dream Big: How to Reach for Your Stars, a book that guides young people in developing the skills necessary to achieve their dreams. Recently Abby was a member of the teaching team for the Student Spaceflight Experiments Program, where she mentored undergraduate students in designing research proposals for the International Space Station. Her students' research will fly aboard Mission 19 in the spring of 2024. Abby is a prolific public speaker and staunch advocate for the future of space exploration and STEM education. She has delivered hundreds of presentations on these subjects, ranging from grade school audiences to the US House of Representatives.<br/><br/>In pursuit of her dream to become an astronaut, Abby has trained as a pilot, rescue SCUBA diver, and Emergency Medical Technician and is always searching for her next adventure. Abby has studied Mandarin Chinese, Russian, and Spanish and is passionate about all types of collaboration in the space industry, including international and private/public sectors. Abby will be working as an aerospace engineering intern at a commercial space company this summer. In her free time she runs marathons, rock climbs, and creates educational videos and content on social media to excite more people about space and science. You can join Abby on her journey to become an astronaut by following her at @astronautabbyofficial.",
       "link": "https://www.instagram.com/astronautabbyofficial",
+      "abstract": "",
       "topic": "",
       "headshot-path": "abigail-harrison.jpeg"
+    },
+    {
+      "name": "Abigail Lee",
+      "position": "Undergraduate Student, President",
+      "company": "Queen's University, Queen's Rocket Engineering Team",
+      "bio": "Abigail Lee is in her fifth year of mechanical engineering at Queen's University. During her undergrad she has been actively involved in the Queen's Rocket Engineering Team where she helped launch their rocket in New Mexico to 30,0OOft. Abby is currently the team's President and hopes to have a successful launch in June.<br/><br/>Between third and fourth year Abby worked at Rocket Lab on a year long internship, she worked on the research and development of their star trackers and reaction wheels at their Toronto office. Abby wrote a paper on her research which was accepted to the Small Satellite Conference in Logan, Utah. At the conference she competed against Master's students internationally and was awarded the first place prize for her research and presentation.<br/><br/>This May, Abby will be heading to MIT to experience microgravity on a Zero-G flight. She hopes that her experiment will help educators better teach about the effects of gravity and what happens when it's no longer present.<br/><br/>Outside school, you can usually find her at the Kingston airport working towards her private pilot's license or at home reading science fiction.",
+      "link": "",
+      "abstract": "",
+      "topic": "",
+      "headshot-path": "abigail-lee.png"
     },
     {
       "name": "Dr. Karl Stapelfeldt",
@@ -775,6 +868,7 @@
       "company": "NASA Jet Propulsion Laboratory",
       "bio": "Dr. Karl Stapelfeldt is a distinguished scientist and Chief Scientist of the NASA Exoplanet Exploration Program at NASA Jet Propulsion Laboratory. Holding a Ph.D. in Astrophysics with a graduate minor in Planetary Sciences from Caltech (1991) and a B.S.E. in Mechanical & Aerospace Engineering and Engineering Physics from Princeton University (1984), Dr. Stapelfeldt has consistently demonstrated excellence in his academic and professional pursuits.<br/><br/>From 1993 to 2011, Dr. Stapelfeldt was a vital member of the science staff at the Jet Propulsion Laboratory in Pasadena, CA. During this period, he contributed significantly to various projects, including serving on the Hubble Space Telescope/WFPC2 instrument science team, the Spitzer Space Telescope Project Science Office, and the Terrestrial Planet Finder Coronagraph mission study team.<br/><br/>Currently serving as the Chief Scientist for NASA’s Exoplanet Exploration Program, Dr. Stapelfeldt has been instrumental in advancing our understanding of astrophysics. His expertise spans a wide range of topics within astrophysics, including protoplanetary and debris disks, exoplanets, and star formation. Dr. Stapelfeldt employs diverse observational techniques, such as optical, infrared, and mm-wave observations, coronagraphy, and modeling of circumstellar disks’ scattered light and spectral energy distribution. <br/><br/>Throughout his illustrious career, Dr. Stapelfeldt has been involved in prominent missions, including the Hubble Space Telescope WFPC2 Science Team, the Spitzer Space Telescope Project Science Office, Herschel Space Observatory, and the LBTI Exozodi Key Science Team. He has also contributed to mission studies such as HabEx, LUVOIR, Exo-C (Study Chair), WFIRST, ACCESS, ATLAST, Terrestrial Planet Finder Coronagraph (Acting/Deputy Project Scientist), and Eclipse.<br/><br/>Recognized for his outstanding contributions, Dr. Stapelfeldt has received prestigious awards, including the Muhlmann Award from the Astronomical Society of the Pacific to the Spitzer Space Telescope Team (2010) and the AAAS Newcomb Cleveland Award (2009). With a remarkable portfolio of over 227 publications, Dr. Karl Stapelfeldt continues to be a leading figure in the field of astrophysics and space exploration.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-karl-stapelfeldt.jpg"
     },
@@ -784,6 +878,7 @@
       "company": "Kepler Communications Inc.",
       "bio": "Alexander Barovier is a recent graduate from McMaster University’s Engineering Physics program and currently serves as a Regulatory Specialist in Software Development at Kepler Communications Inc. In his capacity at Kepler, he is actively engaged in the regulatory team, focusing on simulation software to calculate interference between satellite constellations.<br/><br/>As a professional, Alexander’s work extends to spacecraft attitude control, showcasing his interest in space exploration, technology development, climate science, astrophysics, and nuclear fusion. With a commitment to continuous learning and a broad interdisciplinary background, Alexander’s choice of the Engineering Physics program at McMaster University reflects his desire to explore a wide array of topics in both engineering and physics without narrowing down his options too much.<br/><br/>During his time at McMaster, Alexander actively participated in extracurricular activities, being involved in McMaster NEUDOSE and serving as a representative during the engineering welcome week. With nearly three years of dedicated work in his role as a Regulatory Specialist in Software Development at Kepler Communications Inc., Alexander Barovier is making notable contributions to the intersection of regulatory compliance and cutting-edge software development within the space communications industry.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "alexander-barovier.jpg"
     },
@@ -793,15 +888,17 @@
       "company": "Université de Montréal",
       "bio": "Lisa Dang completed her PhD at McGill University where she characterized the climate of extremely hot exoplanets from phase curves. For her thesis, she used full-orbit phase-resolved observations obtained by the Spitzer Space Telescope to map the thermal emission of a variety of short-period exoplanets. From thermal maps of distant worlds, she characterizes their climate by measuring advective and radiative properties. At McGill, she led the detection of the usual westward hot spot offset in the atmosphere of the young hot Jupiter CoRoT-2b, which suggests that our current understanding of exoplanets is incomplete. With Spitzer, she also observed extreme seasonal variation on the massive hot Jupiter XO-3b caused by its eccentric orbit and put constraints on its internal heating.<br/><br/>More recently, she is interested in studying scorching hot rocky planets, i.e. lava planets, predicted to be covered with magma oceans. With undergraduate mentees, they revisited the Spitzer phase curve of the iconic lava world, 55 Cnc e, where they found a smaller hot spot offset than previously reported, as expected for these objects. At the Université de Montréal, she will continue to study lava worlds as geological worlds since they offer unique opportunities to study the interplay between the planetary interiors and their atmosphere. She is the principal investigator of a program with the James Webb Space Telescope (JWST) to map the atmospheric temperature structure and constituents of the lava world K2-141b. In parallel, she will take her work on gas giant mapping to the next level by investigating the multidimensional nature of hot Jupiter atmospheres via spectroscopic observations with JWST.<br/><br/>When she is not thinking of planetary atmospheres, Lisa occasionally dabbles in exoplanetary gravitational microlensing. During her graduate studies, she held a visiting research fellowship at Caltech/IPAC to work on the Spitzer Microlensing Campaign aiming to constrain the distribution of exoplanets towards the galactic bulge.",
       "link": "https://www.physics.mcgill.ca/~khadang/",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-lisa-dang.png"
     },
     {
       "name": "Dr. Nathalie Nguyen-Quoc",
-      "position": "Astrophysicist and Science Communicator",
+      "position": "Astrophysicist and Science communicator",
       "company": "Trottier Institute for Research on Exoplanets at UdeM",
       "bio": "Nathalie Nguyen-Quoc Ouellette is an astrophysicist, science communicator and lifetime lover of all things space! She obtained her Ph.D. in Physics & Astronomy at Queen's University in Kingston, Ontario in 2016. Her research focuses on galaxy formation and evolution, particularly those found in clusters. Nathalie is currently the Deputy Director of the Trottier Institute for Research on Exoplanets (iREx) and the Mont-Mégantic Observatory (OMM) at the University of Montréal and is also the Outreach Scientist for the James Webb Space Telescope in Canada collaborating with the Canadian Space Agency. She is a frequent contributor and analyst in Canadian media on everything related to space. She also organises and participates in science outreach events from local to international scales to encourage the interest and participation of youth and the general public in space science and to increase scientific literacy in Canada.",
       "link": "https://www.astropanda.space/",
+      "abstract": "",
       "topic": "",
       "headshot-path": "dr-nathalie-nguyen-quoc.jpeg"
     },
@@ -811,20 +908,81 @@
       "company": "International Dialogue Centre (KAICIID)",
       "bio": "Prior to joining KAICIID Andrzej served in various international leadership functions across several international organizations. These included the Organization for Economic Cooperation and Development (OECD) in Paris, the Fédération Internationale De Football Association (FIFA) in Zurich, the Organization for Security and Co-operation in Europe (OSCE) in Vienna, and the North Atlantic Treaty Organization (NATO) in Brussels.<br/><br/>While at NATO Andrzej also served as the Lead for Planning and Coordination, and the plenipotentiary of the Secretary General in the United Kingdom, for the preparation of the 2014 NATO Summit in Wales. In 2015 he was appointed as Principal Advisor to the Government of Poland on the planning of the 2016 NATO Summit in Warsaw, for which he was made Knight of the Order of Merit of the Republic of Poland.<br/><br/>In addition to his formal career path Andrzej has been space industry-adjacent for most of his life. He started this by becoming the first ever high-school intern at the Canadian Space Agency where he worked at the David Florida Laboratories at the time of the Radarsat and MSAT programmes. He has participated in numerous fora related to the commercial aspects of the global space industry, most notably over successive editions of the Space Symposium in Colorado Springs, USA, and with the Space Foundation. Andrzej has also worked with early-stage space technology companies, helping identify opportunities linked to business strategy and access to funding. His most precious memory from this ‘shadow career’ is a lengthy exchange he had with Buzz Aldrin on the impact which space plays in global defence and security in the context of the emergence of BRICS economies, much of which has now come to pass.",
       "link": "",
+      "abstract": "",
       "topic": "",
       "headshot-path": "andrzej-antoszkiewicz.png"
-    },
-    {
-      "name": "Abigail Lee",
-      "position": "Undergraduate Student, President",
-      "company": "Queen's University, Queen's Rocket Engineering Team",
-      "bio": "Abigail Lee is in her fifth year of mechanical engineering at Queen's University. During her undergrad she has been actively involved in the Queen's Rocket Engineering Team where she helped launch their rocket in New Mexico to 30,0OOft. Abby is currently the team's President and hopes to have a successful launch in June.</br></br>Between third and fourth year Abby worked at Rocket Lab on a year long internship, she worked on the research and development of their star trackers and reaction wheels at their Toronto office. Abby wrote a paper on her research which was accepted to the Small Satellite Conference in Logan, Utah. At the conference she competed against Master's students internationally and was awarded the first place prize for her research and presentation.</br></br>This May, Abby will be heading to MIT to experience microgravity on a Zero-G flight. She hopes that her experiment will help educators better teach about the effects of gravity and what happens when it's no longer present.</br></br>Outside school, you can usually find her at the Kingston airport working towards her private pilot's license or at home reading science fiction.",
-      "link": "",
-      "topic": "",
-      "headshot-path": "abigail-lee.png"
     }
   ],
   "2025": [
-    
+    {
+      "name": "George Leblanc",
+      "position": "Senior Research Officer",
+      "company": "National Research Council (NRC)",
+      "bio": "Dr George Leblanc received a B.Sc. in Applied Physics at McMaster University in 1993, an M.Sc. in Deep Earth Geophysics at the University of Western Ontario in 1995 and, a Ph.D. in Exploration Geophysics at McMaster University in Canada, in 1999.  He joined the National Research Council of Canada in 2000 as a research scientist.  His research has spanned various domains including signals analysis, potential fields analysis for exploration of minerals and hydrocarbons, hyperspectral and  thermal imaging.  In 2001 he started work in reflective hyperspectral imaging which led to  the creation of the Hyperspectral and AeroMagnetics group which was expanded in personnel and focus to include thermal imaging and renamed to the Earth Observation and Microgravity Group.  A focus of this group for the last 10 years is the validation of data from various airborne and satellite EO systems.  Dr. Leblanc is an adjunct professor at McGill University and has co-supervised over 15 graduate and 30 undergraduate students during his time at NRC.",
+      "link": "",
+      "abstract": "With the increase in Earth Observation (EO) satellite launches over the past several years, our ability to acquire information about Earth’s surface has never been greater.  But how do you ensure that the vast amount of data provided by the EO system in orbit is correct, or the more general case, where the user is entirely unfamiliar with the concept of satellite data being less than 100% accurate?  The answer lies in validation of the measurements provided by the space system.  This talk will discuss various aspects of satellite EO validation as well as the activities in validation that the Earth Observation and MicroGravity group are involved with.",
+      "topic": "Satellite Validation",
+      "headshot-path": "george_leblanc.jpg"
+    },
+    {
+      "name": "Shahrukh Alavi",
+      "position": "Flight Test Instrumentation Engineer",
+      "company": "National Research Council (NRC)",
+      "bio": "Shahrukh Alavi earned his B.A.Sc in Electrical Engineering from the University of Ottawa in 2004, with co-op placements at the National Research Council (NRC) and Natural Resources Canada (NRCan). He joined NRC in 2005 at the Canadian Neutron Beam Center, later transitioning to the Flight Research Lab in 2007. Specializing in airborne data acquisition systems across the NRC research fleet, he now manages both the Instrumentation Group and the Microgravity program. Since his first microgravity flight in 2008, Shahrukh has facilitated numerous projects, supporting hundreds of participants on reduced gravity flights. In 2016, he co-founded the Canadian Reduced Gravity Experiment Design Challenge (CAN-RGX), where he continues to serve as a senior subject matter expert, guiding students from concept development through to design, testing, and execution.",
+      "link": "",
+      "abstract": "The National Research Council's Falcon 20 aircraft stands as one of the few reduced gravity planes available globally, offering a unique platform for simulating low and zero gravity environments through parabolic flight maneuvers. This specialized jet supports both Canadian and International researchers in conducting fundamental and applied research, advancing technology development, and mitigating risks prior to space missions. With the advent of commercial spaceflight, the Falcon 20 has also become a training ground for citizen scientists preparing for private space journeys. This presentation will showcase a selection of microgravity projects undertaken on the Falcon, with particular emphasis on the Canadian Reduced Gravity Experiment Design Challenge (CAN-RGX), which provides an exceptional opportunity for Canadian post-secondary students to engage in reduced gravity research.",
+      "topic": "Microgravity",
+      "headshot-path": "shahrukh_alavi.png"
+    },
+    {
+      "name": "Graeme Daly",
+      "position": "Co-Founder and CTO",
+      "company": "Stratotegic",
+      "bio": "Graeme Daly is the Co-Founder and Chief Technology Officer of Stratotegic. He spent over five years designing and certifying aviation software at Pratt and Whitney Canada, gaining valuable experience in the aerospace sector. Graeme holds a Bachelor of Applied Science from Queen’s University and a Master of Engineering from the University of Toronto Institute for Aerospace Studies. He is currently working on developing a navigation solution for Lighter than Air High Altitude Platform Systems (HAPS) to make HAPS a more viable solution for connecting remote areas. Graeme’s combination of practical experience and academic background makes him a notable figure in Canada’s aerospace industry.",
+      "link": "",
+      "abstract": "",
+      "topic": "LEO Infrastructure",
+      "headshot-path": "graeme_daly.png"
+    },
+    {
+      "name": "Denis Vida",
+      "position": "Adjunct Research Professor, Founder",
+      "company": "University of Western Ontario, Global Meteor Network",
+      "bio": "Dr. Denis Vida is a multidisciplinary scientist with expertise in planetary science, atmospheric physics, and space situational awareness. He holds a PhD in Geophysics (Planetary Science & Exploration) from Western University and leverages his formal training in computer science to integrate AI and machine learning into his research.<br/><br/>As the founder and coordinator of the Global Meteor Network, Dr. Vida leads an open-source initiative encompassing over 1,000 cameras across 40+ countries. This network not only tracks meteors and satellites but also observes atmospheric phenomena, contributing to both space sustainability and climate science.<br/><br/>Dr. Vida’s recent work addresses critical challenges in the era of mega-constellations, repurposing meteor observation systems for real-time satellite tracking and contrail monitoring. His innovative solutions offer actionable insights for space traffic management and climate mitigation, aligning with his passion for tackling the pressing issues of our time.",
+      "link": "",
+      "abstract": "The rapid expansion of mega constellations in low-Earth orbit (LEO) demands innovative solutions for space traffic management. Traditional telescopic systems struggle to keep up with the rise in the number of satellites, especially those operated by non-cooperative nations. Our repurposed meteor cameras provide a groundbreaking alternative, tracking over 2,000 unique satellites nightly and detecting nearly all active objects larger than 30 cm in LEO. This technology also addresses climate change by observing aircraft contrails—artificial cirrus clouds that contribute 2% of total anthropogenic climate impacts. By enabling real-time monitoring of contrail formation and feeding this data into meteorological models, we can forecast humidity at flight altitudes and reroute aircraft to prevent contrails. This strategy requires only ~0.1% additional cost for flight adjustments, offering a transformative and cost-efficient solution to mitigate the climate impacts of aviation.",
+      "topic": "Global Meteor Network and space situational awareness",
+      "headshot-path": "dr_denis_vida.jpg"
+    },
+    {
+      "name": "Grant Hurley",
+      "position": "Undergraduate",
+      "company": "Queen's University",
+      "bio": "Grant Hurley is in his fifth year of Concurrent Education at Queen's University, pursuing a dual degree in a Bachelor of Education and a Bachelor of Science with a specialization in astrophysics. Throughout his undergraduate studies, he has been actively involved in the Queen's community, serving as Co-chair of QSC and as an executive member of Queen's Astronomy Club and multiple Queen's Orientation Leadership Teams. Grant has demonstrated strong leadership skills not only through his involvement in clubs and conferences but also within the Kingston community, where he has worked as a student teacher and contributed to after-school programs, including Big Brothers Big Sisters. While doing so, Grant has participated in cutting-edge research on extragalactic kinematics through the use of pilot surveys from large radio telescopes to collect data and create some of the first ever kinematic models of galaxies. Grant loves to share his passion for space and astrophysics with others and is aiming to continue sharing his knowledge through post-graduate studies.",
+      "link": "",
+      "abstract": "The Student Spaceflight Experience Program (SSEP) is an initiative that allows student researchers to contribute to space science by creating research proposals that innovate or explore gaps in knowledge in space science, working with research laboratories, and designing fluid mixing enclosures (FME) that are sent to the International Space Station (ISS).\r<br/>Hurley, Maliha, and Multani collaborated with fellow group members Ryan Stewart, Tessa Murchison, and Cole Munro in a research study investigating the use of concanavalin A (conA) derived from the jackfruit plant as a potential treatment for antibiotic resistance in microgravity and on earth. Lectins are a plant protein which have been seen to increase antibiotic efficacy. Due to this increased proliferation rate of bacteria in space, sepsis is a glaring concern of particular interest to Hurley and colleagues. As a result, the team proposed the usage of lectins within an FME alongside Escrhericha Coli (E. Coli) to be activated within microgravity conditions and observed as a potential mitigator of bacterial spread. If successful, the research aims to reduce cases of emergency sepsis in long-spaceflight and target the antibiotic resistance crisis here on earth.",
+      "topic": "Escerichia coli biofilm formation and microgravity",
+      "headshot-path": "grant_hurley.jpg"
+    },
+    {
+      "name": "Maisha Maliha",
+      "position": "Undergraduate",
+      "company": "Queen's University",
+      "bio": "Maisha Maliha, a fourth-year Health Sciences student at Queen’s University, is passionate about health, education, and technology. Self-taught in Java and Python, she founded a computer science tutoring business to bridge STEM education gaps in her community. As a Camp Facilitator, she developed STEM programs and mentored 200+ children, making science engaging and accessible. She gained healthcare experience working at an oncology clinic, while her leadership at Queen’s spans multiple roles. As a Residence Don, she fosters inclusivity, and at the Campus Observation Room (Detox Center), she supports student health. Through Revved Up, she helps individuals with mobility challenges adapt exercise routines. Maisha also contributed to sustainability efforts with Queen’s ReElectric Assembly Team, converting a 1996 Jeep into an electric vehicle, and as a Peer Health Educator, she promotes campus well-being. She is committed to accessible learning, inclusive communities, and interdisciplinary innovation.",
+      "link": "",
+      "abstract": "The Student Spaceflight Experience Program (SSEP) is an initiative that allows student researchers to contribute to space science by creating research proposals that innovate or explore gaps in knowledge in space science, working with research laboratories, and designing fluid mixing enclosures (FME) that are sent to the International Space Station (ISS).\r<br/>Hurley, Maliha, and Multani collaborated with fellow group members Ryan Stewart, Tessa Murchison, and Cole Munro in a research study investigating the use of concanavalin A (conA) derived from the jackfruit plant as a potential treatment for antibiotic resistance in microgravity and on earth. Lectins are a plant protein which have been seen to increase antibiotic efficacy. Due to this increased proliferation rate of bacteria in space, sepsis is a glaring concern of particular interest to Hurley and colleagues. As a result, the team proposed the usage of lectins within an FME alongside Escrhericha Coli (E. Coli) to be activated within microgravity conditions and observed as a potential mitigator of bacterial spread. If successful, the research aims to reduce cases of emergency sepsis in long-spaceflight and target the antibiotic resistance crisis here on earth.",
+      "topic": "Escerichia coli biofilm formation and microgravity",
+      "headshot-path": "maisha_maliha.jpg"
+    },
+    {
+      "name": "Gurleen K. Multani",
+      "position": "Undergraduate",
+      "company": "Queen's University",
+      "bio": "Gurleen K. Multani is a third-year health sciences student at Queen’s University with professional experience in Mechanical and Materials Engineering. Within her three years at Queen’s University, she has published two research articles, attended and presented at various academic conferences, and collaborated with her team and the Student Spaceflight Experience Program (SSEP) to create an experiment involving lectins as a solution to antibiotic resistance in microgravity. Multani’s interest in research and academia has manifested in her research protocol published within the URNCST Journal on deep brain stimulation (DBS) for treatment resistant depression; validation studies for the timed-up-and-go (TUG) test using markerless motion capture in arthritis diagnostic and prognostic testing; and subtask segmentation for the TUG test. Multani aims to pursue neuropsychology within her post-graduate studies. Beyond her studies within Queen’s, Multani has also written and published novels within the fantasy and political genre, amassing a following for her worldbuilding and storytelling.",
+      "link": "",
+      "abstract": "The Student Spaceflight Experience Program (SSEP) is an initiative that allows student researchers to contribute to space science by creating research proposals that innovate or explore gaps in knowledge in space science, working with research laboratories, and designing fluid mixing enclosures (FME) that are sent to the International Space Station (ISS).\r<br/>Hurley, Maliha, and Multani collaborated with fellow group members Ryan Stewart, Tessa Murchison, and Cole Munro in a research study investigating the use of concanavalin A (conA) derived from the jackfruit plant as a potential treatment for antibiotic resistance in microgravity and on earth. Lectins are a plant protein which have been seen to increase antibiotic efficacy. Due to this increased proliferation rate of bacteria in space, sepsis is a glaring concern of particular interest to Hurley and colleagues. As a result, the team proposed the usage of lectins within an FME alongside Escrhericha Coli (E. Coli) to be activated within microgravity conditions and observed as a potential mitigator of bacterial spread. If successful, the research aims to reduce cases of emergency sepsis in long-spaceflight and target the antibiotic resistance crisis here on earth.",
+      "topic": "Escerichia coli biofilm formation and microgravity",
+      "headshot-path": "gurleen_k_multani.jpeg"
+    }
   ]
 }
